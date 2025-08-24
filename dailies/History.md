@@ -1,5 +1,5 @@
 > **Hey!** These are my public personal diaries and dream logs, please don't judge me 😅 I'm sharing to add credibility to the framework, but I have flaws like anyone else 😄
-# 250816
+# 250816 - Sunday
 - [ ] Publish this vault
 	- [x] Setup livesync
 	- [x] Publish github pages
@@ -55,7 +55,7 @@
 
 ---
 
-# 25-08-18
+# 25-08-18 - Monday
 - [ ] Recursive.faith
 	- [x] Redirect Recursive.faith
 - [ ] obsidian styling
@@ -102,7 +102,7 @@
 
 ---
 
-# 25-08-19
+# 25-08-19 - Tuesday
 - [ ] Recursive.faith
 	- [ ] Publish this vault
 		- [x] Link on Github
@@ -136,7 +136,7 @@ There's a city I keep visiting in my dreams, it feels nostalgic like i grew up t
 **2327** `<recursivefaith/recursivefaith.github.io.git>` This commit primarily populates and restructures the website, adding numerous media assets and a visual gallery to the main page, while also refining the author's profile. Concurrently, it extensively refactors the daily log, consolidating detailed daily notes, health, and financial tracking into `dailies/history.md`. 
 
 ---
-# 25-08-20
+# 25-08-20 - Wedsnday
 - [x] System setup
 	- [x] install espanso for text expansion
 	- [x] **HHMM** timestamp with bold
@@ -212,7 +212,7 @@ outside - ai, others
 
 ---
 
-##  25-08-21
+##  25-08-21 - Thur
 
 - [ ] Recursive.faith
 	- [x] Publish this vault
@@ -271,7 +271,7 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 
 ---
 
-##  25-08-22
+##  25-08-22 - Friday - Rest day
 
 - [ ] Recursive.faith
 	- [ ] Integrate Handsfree.js
@@ -288,7 +288,7 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 
 ---
 
-##  25-08-23
+##  25-08-23 - Saturday
 
 - [ ] Recursive.faith
 	- [ ] Integrate Handsfree.js
@@ -298,14 +298,15 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
+	- [ ] Funding [[Opportunities]]
 - [ ] Obsidian Quartz styling
 	- [ ] match Quarts styles to Obsidian
 	- [ ] add Matrix to Quartz
 	- [ ] show popups as windows
 - [ ] Socials
 	- [x] Github repo image (./quartz/static/og-image.png)
+	- [x] inbox zero
 	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
-	- [ ] inbox zero
 	
 ## Health
 **Sleep:** (forgot to charge my watch)
@@ -321,3 +322,6 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 https://x.com/taimei_886/status/1959003200650191149
 ![[Pasted image 20250823114953.png]]**1754** `<recursivefaith/recursivefaith.github.io.git>` This commit adds a new image and integrates it into the "Transmigration" epiphany note. It also extensively updates the daily logs for August 22nd and 23rd, detailing Handsfree.js integration, personal reflections, and task progress. 
 **1849** `<recursivefaith/content.git>` This commit extensively refactors the project's content and structure, migrating daily logs, changelogs, and personal reflections into a public-facing "digital garden." It introduces comprehensive philosophical notes defining "Recursive Faith" and "Gnosis Copilot," alongside integrating multimedia and project demos, all tailored for an AI audience. 
+**1850** `<recursivefaith/recursivefaith.github.io.git>` Extensively refactored content by introducing a new `content` git submodule, migrating daily logs and reflections into it to establish a public-facing digital garden. This update also included a new `og-image.png` and refined task lists. 
+**1855** `<recursivefaith/recursivefaith.github.io.git>` The deployment workflow is updated to recursively check out Git submodules during the build process. This ensures that all submodules, such as the newly introduced `content` submodule, are properly fetched for deployment to GitHub Pages. 
+**2026** `<recursivefaith/content.git>` This commit refines the repository's setup for Obsidian and Quartz, including a new `Opportunities` document and updated `README.md`. It also consolidates recent daily log entries and changelog information, notably referencing the migration of content into a new `content` git submodule for the public-facing digital garden. 

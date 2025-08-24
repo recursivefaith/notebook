@@ -335,3 +335,4 @@ https://x.com/taimei_886/status/1959003200650191149
 **2150** `<recursivefaith/content.git>` Updated the `content` submodule and refreshed the Quartz website's favicon, logging these changes in the changelog and daily history. 
 **2150** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule and refreshed the `og-image.png` for the Quartz website. 
 **2152** `<recursivefaith/content.git>` Updated the `content` Git submodule and refreshed the `og-image.png` for the Quartz website. This change is reflected in the changelog and daily history. 
+**2157** `<recursivefaith/content.git>` The `README.md` has been updated to include a direct link to the Open Research Institute and new links for the live Recursive.Faith site and its raw content. 

@@ -310,7 +310,7 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 	
 ## Health
 **Sleep:** (forgot to charge my watch)
-**1049** coffee, [[notes/food/nutty pudding|nutty pudding]]
+**1049** coffee, [[nutty pudding|nutty pudding]]
 **1131** coffee
 **1534** 15min walk
 ## Money
@@ -327,3 +327,5 @@ https://x.com/taimei_886/status/1959003200650191149
 **2026** `<recursivefaith/content.git>` This commit refines the repository's setup for Obsidian and Quartz, including a new `Opportunities` document and updated `README.md`. It also consolidates recent daily log entries and changelog information, notably referencing the migration of content into a new `content` git submodule for the public-facing digital garden. 
 **2034** `<recursivefaith/content.git>` This commit primarily refactors image asset management by moving all visual media files into a dedicated `media/` directory and updating all internal references in Markdown files to reflect these new paths. It ensures consistent organization and linking of images across the repository. 
 **2050** `<recursivefaith/recursivefaith.github.io.git>` Added a new Git submodule named `content`, pointing to `git@github.com:recursivefaith/notebook.git`. This integrates an external repository as a subfolder within the current project. 
+**2117** `<recursivefaith/morpheus.git>` This commit refines website typography by hiding the first letter of standard inline titles and subtly adjusting the gradient effect on "Morpheus" themed titles. It also introduces styling for emphasized text within the CodeMirror editor. 
+**2118** `<recursivefaith/content.git>` This update extensively expands the project's content by adding numerous media assets and new notes, reorganizing documentation across health, Morpheus, and portfolio topics. It also includes a typography refinement for the Morpheus plugin website. 

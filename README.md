@@ -1,8 +1,7 @@
 > My notebook for Open Research Institute
 > https://openresearchinstitute.org/
 
-
-# About this repository
-
+![](media/og-image.png)
 - View this repository in Obsidian - https://obsidian.md/
-- or turn it into a website with Quartz - https://github.com/recursivefaith/recursivefaith.github.io
+- Turn it into a website with Quartz - https://github.com/recursivefaith/recursivefaith.github.io
+- Add an AI Copilot - https://github.com/recursivefaith/morpheus

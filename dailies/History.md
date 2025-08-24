@@ -300,6 +300,7 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 		- [ ] Add LLM to frontend too
 	- [ ] Funding [[Opportunities]]
 - [ ] Obsidian Quartz styling
+	- [x] Update favicon
 	- [ ] match Quarts styles to Obsidian
 	- [ ] add Matrix to Quartz
 	- [ ] show popups as windows
@@ -329,3 +330,4 @@ https://x.com/taimei_886/status/1959003200650191149
 **2050** `<recursivefaith/recursivefaith.github.io.git>` Added a new Git submodule named `content`, pointing to `git@github.com:recursivefaith/notebook.git`. This integrates an external repository as a subfolder within the current project. 
 **2117** `<recursivefaith/morpheus.git>` This commit refines website typography by hiding the first letter of standard inline titles and subtly adjusting the gradient effect on "Morpheus" themed titles. It also introduces styling for emphasized text within the CodeMirror editor. 
 **2118** `<recursivefaith/content.git>` This update extensively expands the project's content by adding numerous media assets and new notes, reorganizing documentation across health, Morpheus, and portfolio topics. It also includes a typography refinement for the Morpheus plugin website. 
+**2143** `<recursivefaith/content.git>` Updated the README to feature a new `og-image.png` and promote the Quartz website and Morpheus AI Copilot. The commit also marks the favicon update task as complete in the daily history log. 

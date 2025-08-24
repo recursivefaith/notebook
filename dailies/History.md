@@ -290,33 +290,24 @@ When I woke up for real I was sweating but fell back to sleep quickly, I had ano
 
 ##  25-08-23 - Saturday
 
-- [ ] Recursive.faith
-	- [ ] Integrate Handsfree.js
-		- [ ] Start Handsfree Button
-		- [ ] Enable handsfree browsing
-	- [ ] Morpheus
-		- [ ] Update API to gemini Flash
-		- [ ] Integrate Terminal (with vim, tmux)
-		- [ ] Add LLM to frontend too
-	- [ ] Funding [[Opportunities]]
 - [ ] Obsidian Quartz styling
 	- [x] Update favicon
-	- [ ] match Quarts styles to Obsidian
-	- [ ] add Matrix to Quartz
-	- [ ] show popups as windows
 - [ ] Socials
 	- [x] Github repo image (./quartz/static/og-image.png)
 	- [x] inbox zero
-	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
 	
 ## Health
-**Sleep:** (forgot to charge my watch)
+**Sleep:** 78 (0009-0813)
 **1049** coffee, [[nutty pudding|nutty pudding]]
 **1131** coffee
 **1534** 15min walk
+**2338** 12.5mg seroquel
 ## Money
 **1311** 3.91 31min Prolific
 **1348** 0.55 2min Prolific
+## Bookmarks
+- a16z PC - https://x.com/Mascobot/status/1958925710988582998
+  ![[media/Screenshot_2025-08-23_22-24-09-a16z super computer.png]]
 ## Notes
 **1045** Huzzah! Disconnected for about 36hrs to recharge, i feel GREAT but a bit "slow" 😅 I think i had some anxiety around publishing Handsfree.js (as i often do), but this revival will be hyperfocused on being my interaction layer to this digital garden
 **1149** OH this beautifully captures my "[[notes/epiphanies/transmigration|encoding myself into qr codes]]" concept
@@ -337,3 +328,40 @@ https://x.com/taimei_886/status/1959003200650191149
 **2152** `<recursivefaith/content.git>` Updated the `content` Git submodule and refreshed the `og-image.png` for the Quartz website. This change is reflected in the changelog and daily history. 
 **2157** `<recursivefaith/content.git>` The `README.md` has been updated to include a direct link to the Open Research Institute and new links for the live Recursive.Faith site and its raw content. 
 **2201** `<recursivefaith/content.git>` Removed various personal and raw notes, dream logs, and meditations from the `private/` directory. The `private/` directory is now explicitly ignored, signifying a cleanup and restructuring of sensitive or uncurated content. 
+
+---
+
+## 25-08-24 - Sunday
+
+- [ ] Recursive.faith
+	- [ ] Integrate Handsfree.js
+		- [ ] Start Handsfree Button
+		- [ ] Enable handsfree browsing
+	- [ ] Morpheus
+		- [ ] Update API to gemini Flash
+		- [ ] Integrate Terminal (with vim, tmux)
+		- [ ] Add LLM to frontend too
+	- [ ] Funding [[Opportunities]]
+- [ ] Obsidian Quartz styling
+	- [ ] match Quarts styles to Obsidian
+	- [ ] add Matrix to Quartz
+	- [ ] show popups as windows
+- [ ] Socials
+	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
+	
+## Health
+**Sleep:** 87 (1213-0735)
+**Dream:** Dreamt that I was playing Fallout 2 but in a kind of first-person 3rd view? like I was in the suit but there was also a Heads Up Display of myself...so I was seeing thru my eyes but also seeing myself from above, it was very trippy
+
+The dream, once again, took place in this [[dream city|city-village]] I keep dreaming about, that reminds me of Springfield, MA but themed like it was in an Iraqi desert
+
+In the dream I was suddenly looking at a Diablo 3 interface, while still "feeling" like im in Fallout 2. I had started exploring the city and I remember distinctly that i kept travelling westward. I ended up at a kind of outdoor market and after a battle looted some of the items, including a power armor that required 18 STR...as I started rolling dice to see how many points I could use I woke up
+
+**0845** coffee
+**0920** coffee
+**1031** coffee
+## Money
+
+## Bookmarks
+
+## Notes**1108** `<recursivefaith/content.git>` Enriched the daily log for 25-08-23 (Saturday) with detailed health, money, and bookmark entries, including a new image. A new daily log for 25-08-24 (Sunday) was also added with its initial tasks and health data. 

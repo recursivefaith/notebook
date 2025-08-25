@@ -7,7 +7,7 @@
 - [ ] Recursive.faith
 	- [ ] Try and get the daily logs themselves reverse chronological too
 		- [x] Auto git commit messages should
-		- [ ] Manually order old ones
+		- [x] Manually order old ones
 	- [x] Move History to [[Oz]]
 		- [x] Move existing Oz to [[Research]]
 		- [x] Update .bashrc for save agent
@@ -42,6 +42,7 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1356** `<recursivefaith/content.git>` Manually reordered daily logs and changelog entries to reverse chronological order, completing the task for standardizing historical data display. 
 **1350** `<recursivefaith/content.git>` Standardized reverse chronological ordering for daily logs and notes across all entries in `Oz.md`, including new content and a `.bashrc` update. 
 **1323** similar wave length to what i've been saying about [[Living Digital Gardens]] and the video I made yesterday
 ![[media/Pasted image 20250825132335.png]]

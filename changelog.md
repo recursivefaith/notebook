@@ -23,6 +23,9 @@ title: Changelog
 **2321** `<recursivefaith/recursivefaith.github.io.git>` Integrated a new Matrix Rain visual effect by adding `matrix.js` and linking it in the `Head` component, while also updating the `content` submodule and disabling custom Open Graph image generation. 
 **2327** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effect by increasing the initial opacity of trickle streams. 
 **2328** `<recursivefaith/content.git>` Fixed the Morpheus git agent, integrated a new Matrix Rain visual effect with refined styling, and applied custom scrollbar styling. Updated daily logs with these changes, additional health entries, and expense details. 
+**2345** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect by re-parenting its canvas to the `html` element and adding custom CSS to smoothly fade it out when reader mode is enabled. The `content` submodule was also updated. 
+**0034** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect with detailed HSL color gradients, ensuring white stream tips, and extending triggers to include the `Tab` key. It also introduces interactive rain when hovering over internal links, distinguishing between resolved (info) and unresolved (negative) links. 
+**0035** `<recursivefaith/content.git>` Refined the Matrix Rain visual effect by adjusting its canvas placement, adding fade-out CSS for reader mode, and enhancing its interactivity and styling with HSL gradients and new triggers. 
 
 
 ---

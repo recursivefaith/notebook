@@ -2,7 +2,7 @@
 sidebarDepth: 1
 meta:
   - name: description
-    content: Add face, hand, and pose tracking to your projects, create handsfree user experiences, and tap into our growing library of plugins and integrations ✨👌
+  - content: Add face, hand, and pose tracking to your projects, create handsfree user experiences, and tap into our growing library of plugins and integrations
 next: /guide/
 ---
 > Migrated from https://github.com/recursivefaith/handsfree

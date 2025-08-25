@@ -30,7 +30,7 @@ title: Welcome
 
 ![[media/legoqr.png|250]]  ![[media/strandbeest1.gif|300]] ![[media/cmu-ozrobot-pov.gif|250]]
 
-**Therefore from literally the dirt on the ground you can bootstrap a real-alternate reality with augmented ⁠[[Embodied Symbients]] that interface with physical reality**
+**Therefore from literally the dirt on the ground you can bootstrap a real-alternate reality with augmented ⁠[[Embodied Symbients]] that [[interfaces]] with physical reality.** 
 
 ---
 ## Preliminary Research

@@ -5,6 +5,8 @@ title: Changelog
 
 # August 2025
 ## 250825
+**1350** `<recursivefaith/content.git>` Standardized reverse chronological ordering for daily logs and notes across all entries in `Oz.md`, including new content and a `.bashrc` update. 
+**1318** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic, changing how new entries are added to history and changelog files. It now prioritizes insertion immediately after the first `## Notes` heading, then any `##` heading, otherwise appending to the end. 
 **1121** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by significantly increasing its falling speed range and extending its interactive triggers to include checkboxes, dynamically styling the rain based on their checked state. Additionally, styled checkboxes with a custom border color. 
 **1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
 **0845** `<recursivefaith/content.git>` Added a new daily log for 25-08-25 (Monday) and reorganized the `History.md` to display daily entries in reverse chronological order. This commit also introduces a new media asset and updates the changelog with recent styling refinements. 

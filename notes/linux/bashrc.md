@@ -1,8 +1,6 @@
 This is my `~/.bashrc` file for my [[Linux Mint]] setup
 
 ```bash
-set -e # Exit immediately if a command exits with a non-zero status.
-
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples

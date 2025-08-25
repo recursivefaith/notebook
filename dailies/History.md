@@ -336,6 +336,7 @@ https://x.com/taimei_886/status/1959003200650191149
 - [ ] Recursive.faith
 	- [ ] Integrate Handsfree.js
 		- [x] Start Handsfree Button
+		- [ ] Migrate documentation here
 		- [ ] Enable handsfree browsing
 	- [ ] Morpheus
 		- [ ] Update API to gemini Flash
@@ -372,4 +373,6 @@ In the dream I was suddenly looking at a Diablo 3 interface, while still "feelin
 ## Notes
 **1108** `<recursivefaith/content.git>` Enriched the daily log for 25-08-23 (Saturday) with detailed health, money, and bookmark entries, including a new image. A new daily log for 25-08-24 (Sunday) was also added with its initial tasks and health data. 
 **1431** I feel a little sad that my X/Twitter growth has stagnated...feels incredibly hard to grow and I'm becoming disillusioned with even bothering anymore. It's been nearly 10 years of consistently contributing to big projects (Handsfree.js, MediaPipe, Websim, many others) and getting minimal and sometimes literally zero support. I feel optimistic still but i am starting to get burned out :(...gonna do some coding see if that lifts mood :D)
-**1823** `<recursivefaith/recursivefaith.github.io.git>` Begins integrating Handsfree.js for handsfree interaction**1829** `<recursivefaith/content.git>` The user has updated their daily log and changelog for August 24, 2025. Key changes include marking the "Start Handsfree Button" task as complete, adding a new task to set up a contact page, and detailing a personal reflection on social media growth and burnout. 
+**1823** `<recursivefaith/recursivefaith.github.io.git>` Begins integrating Handsfree.js for handsfree interaction
+**1829** `<recursivefaith/content.git>` The user has updated their daily log and changelog for August 24, 2025. Key changes include marking the "Start Handsfree Button" task as complete, adding a new task to set up a contact page, and detailing a personal reflection on social media growth and burnout. 
+**1839** `<recursivefaith/content.git>` This commit largely migrates the extensive Handsfree.js documentation into a new `notes/handsfree` directory, encompassing guides, examples, API references, and gesture definitions. It also updates the daily history with a new task for this documentation migration. 

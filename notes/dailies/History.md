@@ -66,9 +66,17 @@ graph TD
 **2030** `<recursivefaith/content.git>` Refactored content and file structure by moving daily logs and other notes into a new `notes` directory, updated existing daily entries with new content, and added a new media asset. 
 **2036** `<recursivefaith/recursivefaith.github.io.git>` Refactored content within the `content` submodule, improved social image generation by adding error handling, and updated `custom.scss` to hide Handsfree.js elements by default. 
 **2038** Whoops forgot that I need to update the git agent to insert above the first --- followed by # since this is now in chronological order
-
 **2110** `<recursivefaith/content.git>` The changelog and daily history logs have been refactored and reordered chronologically (newest entries first), with a placeholder for new git messages now located at the top of the changelog. The daily log for 25-08-24 has been expanded with new tasks, bookmarks, and personal reflections, and there's a note about updating the git agent's insertion logic. 
-<hey add git messages above this line above />
+**2117** `<recursivefaith/hey.git>` The `git.sh` script now requires a `CHANGELOG` environment variable and the `awk` command. It has been refactored to use `awk` to insert new git messages above a specific marker in both the history and changelog files, ensuring chronological order. 
+**2117** Wow that works great ha! Now it will add commit messages chronologically even as i type. I would rather do it without the marker below, but for now this is great. Actually let's just vibe code it why not
+**2126** `<recursivefaith/hey.git>` Refactored the `git.sh` script to update its `awk` insertion logic, which now identifies a `---` line immediately followed by a `#` heading to insert new git messages below it. This ensures chronological ordering (newest first) within the history and changelog files, falling back to appending if the specific marker sequence isn't found. 
+**2128** `<recursivefaith/hey.git>` Refactored the `git.sh` script to modify its `awk` insertion logic. New git messages are now inserted **above** the `---` separator line when it's immediately followed by a `#` heading, ensuring chronological order. 
+**2132** `<recursivefaith/hey.git>` The `git.sh` script's `awk` insertion logic has been refined to allow for optional empty lines between the `---` separator and the `#` heading when inserting new git messages, ensuring chronological order. 
+**2137** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic to place new git messages *after* the last non-blank line preceding the `---` and `#` heading sequence, ensuring chronological order. 
+**2142** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and added custom CSS to `custom.scss` for styling scrollbars, setting them to be square and using theme-defined color variables. 
+**2142** `<recursivefaith/content.git>` Updated the changelog and daily history with recent git messages related to the `git.sh` script's insertion logic refinements and `custom.scss` updates. The changelog also received an introductory note and structural improvements with horizontal separators between daily entries. 
+
+
 
 ---
 
@@ -399,5 +407,3 @@ There's a city I keep visiting in my dreams, it feels nostalgic like i grew up t
 **2213** `<recursivefaith/recursivefaith.github.io.git>` Renamed `README.md` to `index.md` and refined its content to emphasize system integration, while restructuring `dailies/history.md` by removing detailed daily log entries. 
 **2226** `<recursivefaith/recursivefaith.github.io.git>` Added an empty GitHub Actions deploy workflow file, likely for future automated deployments. 
 **2248** `<recursivefaith/recursivefaith.github.io.git>` Configured the Quartz website to use "Recursive.Faith" as *its* title and base URL, and added `.trash` to `.gitignore`
-
----

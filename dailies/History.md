@@ -335,13 +335,14 @@ https://x.com/taimei_886/status/1959003200650191149
 
 - [ ] Recursive.faith
 	- [ ] Integrate Handsfree.js
-		- [ ] Start Handsfree Button
+		- [x] Start Handsfree Button
 		- [ ] Enable handsfree browsing
 	- [ ] Morpheus
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
 	- [ ] Funding [[Opportunities]]
+	- [ ] Setup contact page
 - [ ] Obsidian Quartz styling
 	- [ ] match Quarts styles to Obsidian
 	- [ ] add Matrix to Quartz
@@ -360,8 +361,15 @@ In the dream I was suddenly looking at a Diablo 3 interface, while still "feelin
 **0845** coffee
 **0920** coffee
 **1031** coffee
+**1210** 20min walk
+**1330** pizza
+**1818** 25mg edible
 ## Money
 
 ## Bookmarks
+- [ Empirical evidence of Large Language Model's influence on human spoken communication](https://arxiv.org/abs/2409.01754)
 
-## Notes**1108** `<recursivefaith/content.git>` Enriched the daily log for 25-08-23 (Saturday) with detailed health, money, and bookmark entries, including a new image. A new daily log for 25-08-24 (Sunday) was also added with its initial tasks and health data. 
+## Notes
+**1108** `<recursivefaith/content.git>` Enriched the daily log for 25-08-23 (Saturday) with detailed health, money, and bookmark entries, including a new image. A new daily log for 25-08-24 (Sunday) was also added with its initial tasks and health data. 
+**1431** I feel a little sad that my X/Twitter growth has stagnated...feels incredibly hard to grow and I'm becoming disillusioned with even bothering anymore. It's been nearly 10 years of consistently contributing to big projects (Handsfree.js, MediaPipe, Websim, many others) and getting minimal and sometimes literally zero support. I feel optimistic still but i am starting to get burned out :(...gonna do some coding see if that lifts mood :D)
+**1823** `<recursivefaith/recursivefaith.github.io.git>` Begins integrating Handsfree.js for handsfree interaction**1829** `<recursivefaith/content.git>` The user has updated their daily log and changelog for August 24, 2025. Key changes include marking the "Start Handsfree Button" task as complete, adding a new task to set up a contact page, and detailing a personal reflection on social media growth and burnout. 

@@ -4,7 +4,8 @@ title: Changelog
 > These are automatically updated by the [[Gnosis Copilot]]
 
 # August 2025
-## 250825
+## 25-08-25 - Monday
+**1359** `<recursivefaith/content.git>` Standardized the format of daily log headings in `changelog.md` to include the day of the week, enhancing readability. 
 **1356** `<recursivefaith/content.git>` Manually reordered daily logs and changelog entries to reverse chronological order, completing the task for standardizing historical data display. 
 **1350** `<recursivefaith/content.git>` Standardized reverse chronological ordering for daily logs and notes across all entries in `Oz.md`, including new content and a `.bashrc` update. 
 **1318** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic, changing how new entries are added to history and changelog files. It now prioritizes insertion immediately after the first `## Notes` heading, then any `##` heading, otherwise appending to the end. 
@@ -17,7 +18,7 @@ title: Changelog
 
 ---
 
-## 250824
+## 25-08-24 - Sunday
 **0132** `<recursivefaith/recursivefaith.github.io.git>` Refined mobile page title styling in `custom.scss` to target `<span>` elements, aligning with the refactored Quartz page title HTML structure.  
 **0116** `<recursivefaith/recursivefaith.github.io.git>` Refactored Quartz page title HTML structure and updated CSS to apply gradient text styling to individual `<span>` elements, slightly adjusting the gradient's transition.  
 **0051** `<recursivefaith/content.git>` Integrated Matrix Rain visual effects into Quartz and added related styling, along with new custom CSS for Quartz elements like horizontal rules and borders. A new image asset was also included and referenced in the daily log.  
@@ -47,7 +48,7 @@ title: Changelog
 
 ---
 
-## 250823
+## 25-08-23 - Saturday
 **2201** `<recursivefaith/content.git>` Removed various personal and raw notes, dream logs, and meditations from the `private/` directory. The `private/` directory is now explicitly ignored, signifying a cleanup and restructuring of sensitive or uncurated content.  
 **2157** `<recursivefaith/content.git>` The `README.md` has been updated to include a direct link to the Open Research Institute and new links for the live Recursive.Faith site and its raw content.  
 **2152** `<recursivefaith/content.git>` Updated the `content` Git submodule and refreshed the `og-image.png` for the Quartz website. This change is reflected in the changelog and daily history.  
@@ -67,20 +68,20 @@ title: Changelog
 
 ---
 
-## 250822
+## 25-08-22 - Friday
 **1558** `<recursivefaith/recursivefaith.github.io.git>` Adds the `handsfree` library to the Morpheus plugin and updates daily logs for 25-08-21 and 25-08-22, reflecting task completion and new plans for Handsfree integration. Also includes minor content restructuring and a file rename. 
 **1557** `<recursivefaith/morpheus.git>` Added the `handsfree` library as a new project dependency, including its sub-dependencies, likely for gesture and motion tracking features. 
 
 ---
 
-## 250821
+## 25-08-21 - Thursday
 **1112** `<recursivefaith/recursivefaith.github.io.git>` Refactored daily logs by consolidating health and bookmarks, updated publishing tasks, and introduced new social media goals. The main index page was significantly revised to replace daily diary links with a detailed "Funding Goals" section, while also adding descriptive notes to research areas.  
 **0931** `<recursivefaith/recursivefaith.github.io.git>` Refactored daily logs to consolidate detailed dream entries and added the new 25-08-21 daily log. Updates also include refined internal links and Quartz configuration adjustments for date prioritization.  
 **0930** `<recursivefaith/morpheus.git>` Adds a CSS rule for `.cm-em` to set its color to `var(---color-1-bright)`. This likely styles emphasized text within a code mirror editor.
 
 ---
 
-## 250820
+## 25-08-20 - Wednesday 
 **2359** `<recursivefaith/recursivefaith.github.io.git>` The commit primarily refactors website content and configuration, including the deletion of a conceptual README and the addition of frontmatter to "epiphanies" notes. It also updates Quartz settings to prioritize frontmatter for date tracking and refines mobile styling for page titles and the reader mode button.  
 **2329** `<recursivefaith/recursivefaith.github.io.git>` Refined website styling for mobile devices, reducing the page title font size and hiding the reader mode button for improved display on smaller screens.  
 **2325** `<recursivefaith/recursivefaith.github.io.git>` Refined website styling by adjusting the font size of the page title on mobile devices for improved readability. The change targets screens with a maximum width of 768px, making the title smaller.  
@@ -98,14 +99,14 @@ title: Changelog
 
 ---
 
-## 250819
+## 25-08-19 - Tuesday
 **2327** `<recursivefaith/recursivefaith.github.io.git>` This commit primarily populates and restructures the website, adding numerous media assets and a visual gallery to the main page, while also refining the author's profile. Concurrently, it extensively refactors the daily log, consolidating detailed daily notes, health, and financial tracking into `dailies/history.md`.  
 **1741** `<recursivefaith/hey.git>` Refined Git script for standardized repo references and dual history/changelog logging, alongside simplifying the internal git agent prompt.  
 **1329** `<recursivefaith/recursivefaith.github.io.git>` The commit deletes a temporary file, updates the changelog, and significantly refactors `dailies/history.md` by moving completed tasks and health logs to their respective dated sections for better organization and clarity. \n
 
 ---
 
-## 250818
+## 25-08-18 - Monday
 **2213** `<recursivefaith/recursivefaith.github.io.git>` Refactored daily notes and changelog entries, standardizing repository references from `ozramos` to `recursivefaith`. The update also marks progress on website publishing and styling goals, while adding new content and a temporary file.  
 **1453** `<recursivefaith/recursivefaith.github.io.git>` Introduced a new chores list, restructured daily goals and health logs for 25-08-18, and updated the website configuration to publish daily notes by removing them from the ignore patterns.  
 **1214** `<recursivefaith/recursivefaith.github.io.git>` This commit refactors content by migrating daily log entries to a new changelog file and introducing a new daily log for 250818, while also updating the website's ignore patterns.  
@@ -114,13 +115,13 @@ title: Changelog
 
 ---
 
-## 250817
+## 25-08-17 - Sunday
 **1800** `<recursivefaith/morpheus.git>` This commit introduces a new "skills" feature for the Morpheus AI Obsidian plugin, allowing it to load and utilize skills from a designated folder. It includes a new `src/morpheus/skills.ts` file and updates the plugin's settings to configure the skill folder, along with minor code formatting and build configuration changes
 
 
 ---
 
-## 250816
+## 25-08-16 - Saturday
 **2248** `<recursivefaith/recursivefaith.github.io.git>` Configured the Quartz website to use "Recursive.Faith" as its title and base URL, and added `.trash` to `.gitignore`.  
 **2226** `<recursivefaith/recursivefaith.github.io.git>` Added an empty GitHub Actions deploy workflow file, likely for future automated deployments.  
 **2213** `<recursivefaith/recursivefaith.github.io.git>` Renamed `README.md` to `index.md` and refined its content to emphasize system integration, while restructuring `dailies/history.md` by removing detailed daily log entries.

@@ -19,6 +19,10 @@ title: Changelog
 **2137** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic to place new git messages *after* the last non-blank line preceding the `---` and `#` heading sequence, ensuring chronological order. 
 **2142** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and added custom CSS to `custom.scss` for styling scrollbars, setting them to be square and using theme-defined color variables. 
 **2142** `<recursivefaith/content.git>` Updated the changelog and daily history with recent git messages related to the `git.sh` script's insertion logic refinements and `custom.scss` updates. The changelog also received an introductory note and structural improvements with horizontal separators between daily entries. 
+**2159** `<recursivefaith/morpheus.git>` Refined scrollbar styling by changing the default thumb background color to `---color-2`. 
+**2321** `<recursivefaith/recursivefaith.github.io.git>` Integrated a new Matrix Rain visual effect by adding `matrix.js` and linking it in the `Head` component, while also updating the `content` submodule and disabling custom Open Graph image generation. 
+**2327** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effect by increasing the initial opacity of trickle streams. 
+**2328** `<recursivefaith/content.git>` Fixed the Morpheus git agent, integrated a new Matrix Rain visual effect with refined styling, and applied custom scrollbar styling. Updated daily logs with these changes, additional health entries, and expense details. 
 
 
 ---

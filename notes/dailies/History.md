@@ -10,6 +10,7 @@
 		- [ ] Enable handsfree browsing
 	- [ ] Morpheus
 		- [x] Fix git agent
+		- [ ] Add matrix rain as background
 		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
@@ -17,8 +18,8 @@
 	- [ ] Funding [[notes/Opportunities]]
 	- [ ] Setup contact page
 - [ ] Obsidian/Quartz
+	- [x] add Matrix to Quartz
 	- [ ] randomize styles each time it switches between bright/dark mode
-	- [ ] add Matrix to Quartz
 	- [ ] show popups as windows
 - [ ] Socials
 	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
@@ -84,7 +85,10 @@ graph TD
 **2345** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect by re-parenting its canvas to the `html` element and adding custom CSS to smoothly fade it out when reader mode is enabled. The `content` submodule was also updated. 
 **0034** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect with detailed HSL color gradients, ensuring white stream tips, and extending triggers to include the `Tab` key. It also introduces interactive rain when hovering over internal links, distinguishing between resolved (info) and unresolved (negative) links. 
 **0035** `<recursivefaith/content.git>` Refined the Matrix Rain visual effect by adjusting its canvas placement, adding fade-out CSS for reader mode, and enhancing its interactivity and styling with HSL gradients and new triggers. 
-
+**0045** looks really good wow, filling in every cell gives if an Animated GIF like vibe
+![[media/Pasted image 20250825004551.png]]
+**0051** `<recursivefaith/recursivefaith.github.io.git>` Updates the `content` submodule and refines Quartz styling by adding custom CSS for horizontal rules, popover borders, and graph borders. 
+**0051** `<recursivefaith/content.git>` Integrated Matrix Rain visual effects into Quartz and added related styling, along with new custom CSS for Quartz elements like horizontal rules and borders. A new image asset was also included and referenced in the daily log. 
 
 
 ---

@@ -8,8 +8,9 @@
 	- [ ] Try and get the daily logs themselves reverse chronological too
 	- [ ] Move History to [[Oz]]
 		- [x] Move existing Oz to [[Research]]
-		- [ ] Update .bashrc for save agent
-		- [ ] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
+		- [x] Update .bashrc for save agent
+		- [x] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
+		- [ ] Change my .bashrc to load this .[[bashrc]]
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
 	- [ ] Integrate Handsfree.js
@@ -25,6 +26,10 @@
 - [ ] Obsidian/Quartz
 	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] show popups as windows
+- [ ] QRx
+	- [ ] Show QR Code for each page
+	- [ ] Animated QR Codes
+	- [ ] Animated QR Code reader
 - [ ] Socials
 	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
 	- [ ] Substack
@@ -35,6 +40,9 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1149** damn i have extremely good conversations on [[ORI]]
+**1121** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by significantly increasing its falling speed range and extending its interactive triggers to include checkboxes, dynamically styling the rain based on their checked state. Additionally, styled checkboxes with a custom border color. 
+**1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
 **1052** [[Egregore Bones]] - Use soft body physics to generate "creatures" around the "shape" of data
 **1030** Been thinking about [[Egregore Cosmology]]
 **0909** Gonna start thinking about migrating away from Obsidian completely to the pure QR Code concept, but I'll keep using Obsidian as a kind of "entry" to this concept, so that I can overlap the Obsidian/Personal Knowledge Base communities
@@ -51,10 +59,13 @@
 ## Health
 **Sleep:** 53 (0153-0455)
 
+**1145** coffee
+**1030** coffee
 **0837** *Feel much better!* 
 **0815** coffee
 **0740** coffee
 **0708** coffee, 25mg - (*rant, doomer mindset*) i feel "stuck" and existential this week, I still only have 35 followers on X and there's a feeling that I won't be getting any funding any time soon. I really think [[Living Digital Gardens]] is the path forward but I'm not sure how to articulate this at all. I mean I feel like I'm doing good! But I can't seem to connect with people socially. I feel like I have so much potential but it's just not being utilized or seen. I've been very early and even catalyzed different trends but it feels so competitive, I want to research and build alongside people not compete with people. But it's so hard to feel positive. Not getting sleep and chilling on exercise is likely contributing, so is falling behind on bills. I mean I'm doing survey's working for pennies like what a aweful waste I could be collaborating or doing actually useful things, and the frustrating thing is that I WANT TO be collaborating. It feels like everyone is just yapping and not many people are actually doing things. I need to get the copilot working so I can chat inside of these diaries, that will help me and also sell the vision a bit more, I just need funding man I need a few hundred dollars to "get on my feet" so I can accelerate it's too stressful right now like I have $40 for food until the 5th...i dont get it you can yap on twitter and get UBI thru ad share, but you can't simply contribute to open source without it making money for someone else first. I gotta figure out a way to transcend this. I think I'm on the right path, just gotta keep going. Oof today is going to be a hard day 🥲
+**1306** `<recursivefaith/content.git>` Refactored daily logging by migrating `History.md` content into `Oz.md` and deleting the old file. This commit also mirrors the `.bashrc` configuration and adds new organizational notes for opportunities, scratchpad, and chores. 
 
 
 ---

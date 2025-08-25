@@ -1,0 +1,28 @@
+>[!info] I use this page to monitor chores
+
+- [ ] Kitchen
+	- [ ] Trash
+	- [ ] Washing machine
+	- [ ] Oven
+	- [ ] Microwave
+	- [ ] Countertops
+	- [ ] Floor
+- [ ] Bathroom
+	- [ ] Counters
+	- [ ] Sink
+	- [ ] Toilet
+	- [ ] Floor
+	- [ ] Tub
+- [ ] Halway
+	- [ ] Closet
+	- [ ] Floor
+- [ ] Living room
+	- [x] Water tree
+	- [ ] Island
+	- [ ] Floors
+	- [ ] table
+	- [ ] sofa
+- [ ] Bedroom
+	- [ ] Closet
+	- [ ] Bed
+	- [ ] floors

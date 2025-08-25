@@ -12,10 +12,12 @@
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
+		- [ ] Fix git agent
+		- [ ] Combine matrix rain and birds into one tab
 	- [ ] Funding [[notes/Opportunities]]
 	- [ ] Setup contact page
-- [ ] Obsidian Quartz styling
-	- [ ] match Quarts styles to Obsidian
+- [ ] Obsidian/Quartz
+	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] add Matrix to Quartz
 	- [ ] show popups as windows
 - [ ] Socials
@@ -39,6 +41,8 @@ In the dream I was suddenly looking at a Diablo 3 interface, while still "feelin
 
 ## Bookmarks
 - [ Empirical evidence of Large Language Model's influence on human spoken communication](https://arxiv.org/abs/2409.01754)
+- [Toward an ethics of autopoietic technology: Stress, care, and intelligence](https://www.sciencedirect.com/science/article/pii/S0303264723001399)
+- [Autopoiesis: Foundations of Life, Cognition, and Emergence of Self/Other](https://www.sciencedirect.com/special-issue/109W2D2X1WF)
 
 ## Notes
 **1108** `<recursivefaith/content.git>` Enriched the daily log for 25-08-23 (Saturday) with detailed health, money, and bookmark entries, including a new image. A new daily log for 25-08-24 (Sunday) was also added with its initial tasks and health data. 
@@ -59,10 +63,12 @@ graph TD
 	Garden-->ETH
 ```
 **2020** Use projection mapping to "display" a bird landing on my finger from the knowledge graph
+**2030** `<recursivefaith/content.git>` Refactored content and file structure by moving daily logs and other notes into a new `notes` directory, updated existing daily entries with new content, and added a new media asset. 
+**2036** `<recursivefaith/recursivefaith.github.io.git>` Refactored content within the `content` submodule, improved social image generation by adding error handling, and updated `custom.scss` to hide Handsfree.js elements by default. 
+**2038** Whoops forgot that I need to update the git agent to insert above the first --- followed by # since this is now in chronological order
 
-
-
-<GEMINI respond above />
+**2110** `<recursivefaith/content.git>` The changelog and daily history logs have been refactored and reordered chronologically (newest entries first), with a placeholder for new git messages now located at the top of the changelog. The daily log for 25-08-24 has been expanded with new tasks, bookmarks, and personal reflections, and there's a note about updating the git agent's insertion logic. 
+<hey add git messages above this line above />
 
 ---
 
@@ -394,4 +400,4 @@ There's a city I keep visiting in my dreams, it feels nostalgic like i grew up t
 **2226** `<recursivefaith/recursivefaith.github.io.git>` Added an empty GitHub Actions deploy workflow file, likely for future automated deployments. 
 **2248** `<recursivefaith/recursivefaith.github.io.git>` Configured the Quartz website to use "Recursive.Faith" as *its* title and base URL, and added `.trash` to `.gitignore`
 
-**2030** `<recursivefaith/content.git>` Refactored content and file structure by moving daily logs and other notes into a new `notes` directory, updated existing daily entries with new content, and added a new media asset. 
+---

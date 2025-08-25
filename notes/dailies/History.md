@@ -4,19 +4,24 @@
 
 - [ ] Recursive.faith
 	- [ ] Try and get the daily logs themselves reverse chronological too
+	- [ ] Move History to [[Oz]]
+		- [ ] Update .bashrc for save agent
+		- [ ] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
 	- [ ] Integrate Handsfree.js
 		- [ ] Fix documentation
 		- [ ] Enable handsfree browsing
 	- [ ] Morpheus
-		- [ ] Add matrix rain as background
 		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
 	- [ ] Funding [[notes/Opportunities]]
 	- [ ] Setup contact page
+- [ ] Writings
+	- [ ] [[Egregore Bones]]
+	- [ ] [[Egregore Cosmology]]
 - [ ] Obsidian/Quartz
 	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] show popups as windows
@@ -24,11 +29,22 @@
 	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
 - [ ] Personal
 	- [ ] Catch up on chorse
+	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1052** [[Egregore Bones]] - Use soft body physics to generate "creatures" around the "shape" of data
+**1030** Been thinking about [[Egregore Cosmology]]
+**0909** Gonna start thinking about migrating away from Obsidian completely to the pure QR Code concept, but I'll keep using Obsidian as a kind of "entry" to this concept, so that I can overlap the Obsidian/Personal Knowledge Base communities
+**0846** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
+**0845** `<recursivefaith/content.git>` Added a new daily log for 25-08-25 (Monday) and reorganized the `History.md` to display daily entries in reverse chronological order. This commit also introduces a new media asset and updates the changelog with recent styling refinements. 
 **0841** OK! Never thought of this but with AI I guess it's possible: gonna try and write my diaries in full reverse chronological order, so the latest notes go first...this way visitors can just refresh the page to see the latest notes, also it helps me mentally eg if i have a bad morning or feel down or whatever, i can just write more to "drown it out", this could help me be mindful of actually changing/forgetting the vibe instead of ruminating
 **0747** Whoo! OK feeling better after that rant and some coffee haha gonna start sharing my artwork on twitter and discord
 ![[media/zebramirror17-ezgif.com-optimize.gif]]
+
+## Bookmarks
+- [ ] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)
+- [ ] https://www.nomic.ai/research
+- [x] [The Logos](https://www.youtube.com/watch?v=wMYTeuvVHIw&t=1s)
 ## Health
 **Sleep:** 53 (0153-0455)
 
@@ -36,8 +52,7 @@
 **0815** coffee
 **0740** coffee
 **0708** coffee, 25mg - (*rant, doomer mindset*) i feel "stuck" and existential this week, I still only have 35 followers on X and there's a feeling that I won't be getting any funding any time soon. I really think [[Living Digital Gardens]] is the path forward but I'm not sure how to articulate this at all. I mean I feel like I'm doing good! But I can't seem to connect with people socially. I feel like I have so much potential but it's just not being utilized or seen. I've been very early and even catalyzed different trends but it feels so competitive, I want to research and build alongside people not compete with people. But it's so hard to feel positive. Not getting sleep and chilling on exercise is likely contributing, so is falling behind on bills. I mean I'm doing survey's working for pennies like what a aweful waste I could be collaborating or doing actually useful things, and the frustrating thing is that I WANT TO be collaborating. It feels like everyone is just yapping and not many people are actually doing things. I need to get the copilot working so I can chat inside of these diaries, that will help me and also sell the vision a bit more, I just need funding man I need a few hundred dollars to "get on my feet" so I can accelerate it's too stressful right now like I have $40 for food until the 5th...i dont get it you can yap on twitter and get UBI thru ad share, but you can't simply contribute to open source without it making money for someone else first. I gotta figure out a way to transcend this. I think I'm on the right path, just gotta keep going. Oof today is going to be a hard day 🥲
-**0845** `<recursivefaith/content.git>` Added a new daily log for 25-08-25 (Monday) and reorganized the `History.md` to display daily entries in reverse chronological order. This commit also introduces a new media asset and updates the changelog with recent styling refinements. 
-
+**1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
 
 
 ---
@@ -48,6 +63,7 @@
 		- [x] Start Handsfree Button
 		- [x] Migrate documentation here
 	- [ ] Morpheus
+		- [x] Add matrix rain as background
 		- [x] Fix git agent
 - [ ] Obsidian/Quartz
 	- [x] add Matrix to Quartz

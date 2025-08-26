@@ -40,6 +40,8 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1033** `<recursivefaith/content.git>` Migrated AI chat logs, specifically a review of X profile and research framework, into a new note, including a deep dive into funding opportunities. A new image asset supports the chat content. 
+**1026** Started migrating some of my AI Chats, eventually will do them exclusively through this interface. Migrated yesterday's [[notes/chats/250825-x-review|250825-x-review]] with grok, lots of good insights!
 **1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
 **1014** huzzah! had amazing sleep last night and feel rested. Woke up in a good mood but then saw this post which irked me...bc he is in position of supporting hundreds or thousands of artists but instead frames it as if artist-researchers don't exist in overwhelming numbers: https://x.com/c_valenzuelab/status/1960352853886734612
 

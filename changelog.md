@@ -5,6 +5,8 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
+**2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 
 **2349** `<recursivefaith/content.git>` Expanded daily logs and tasks for 25-08-25, notably introducing the "sparse matrix Matrix" concept and its visualization. This commit integrates new media assets and detailed health entries, alongside minor task reordering. 
 **1440** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined the Matrix Rain effect by increasing the opacity of its inactive cells. 
 **1359** `<recursivefaith/content.git>` Standardized the format of daily log headings in `changelog.md` to include the day of the week, enhancing readability. 

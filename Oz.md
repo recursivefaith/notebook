@@ -1,18 +1,14 @@
+# Research
+> See [[Research]], I'll share more soon!
+
+---
 # Diary
 
->[!error] ***Hey there!*** These are my public personal diaries and dream logs, please don't judge me 😅
-> I'm sharing to add credibility to the framework, but I have flaws like anyone else 😄
-## 25-08-25 - Monday
+## 25-08-26 - Tuesday
+> **Todays focus:** Publish one Substack, get Handsfree.js working again
 
 - [ ] Recursive.faith
 	- [ ] Try and get the daily logs themselves reverse chronological too
-		- [x] Auto git commit messages should
-		- [x] Manually order old ones
-	- [x] Move History to [[Oz]]
-		- [x] Move existing Oz to [[Research]]
-		- [x] Update .bashrc for save agent
-		- [x] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
-		- [x] Change my .bashrc to load this .[[bashrc]]
 	- [ ] Morpheus
 		- [ ] Improve graph view with colors (text, button)
 		- [ ] Combine matrix rain and birds into one tab
@@ -37,7 +33,6 @@
 	- [ ] Import opportunities
 	- [ ] Substack
 		- [ ] Draft
-			- [x] [[sparse matrix Matrix]]
 			- [ ] [[Egregore Bones]]
 			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
@@ -45,8 +40,46 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
+**1014** huzzah! had amazing sleep last night and feel rested. Woke up in a good mood but then saw this post which irked me...bc he is in position of supporting hundreds or thousands of artists but instead frames it as if artist-researchers don't exist in overwhelming numbers: https://x.com/c_valenzuelab/status/1960352853886734612
+
+I like Cristobal but takes like these from leaders feels out of touch
+
+![[media/Pasted image 20250826102100.png]]
+## Bookmarks
+
+
+## Health
+**Sleep:** 82 (0050-0828)
+**Weight:** 197.1
+
+**0856** coffee
+**1014** coffee
+
+---
+
+## 25-08-25 - Monday - sparse matrix Matrix
+
+- [ ] Recursive.faith
+	- [ ] Try and get the daily logs themselves reverse chronological too
+		- [x] Auto git commit messages should
+		- [x] Manually order old ones
+	- [x] Move History to [[Oz]]
+		- [x] Move existing Oz to [[Research]]
+		- [x] Update .bashrc for save agent
+		- [x] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
+		- [x] Change my .bashrc to load this .[[bashrc]]
+- [ ] Socials
+	- [ ] Substack
+		- [ ] Draft
+			- [x] [[notes/metaphors/sparse matrix Matrix]]
+			- [ ] [[Egregore Bones]]
+			- [ ] [[Egregore Cosmology]]
+	
+## Notes
+**2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 
 **2349** `<recursivefaith/content.git>` Expanded daily logs and tasks for 25-08-25, notably introducing the "sparse matrix Matrix" concept and its visualization. This commit integrates new media assets and detailed health entries, alongside minor task reordering. 
-**2339** Shared an EPIC stream of consciousness called [[sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
+**2339** Shared an EPIC stream of consciousness called [[notes/metaphors/sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
 ![[media/sparsematrixmatrix-summary-ezgif.com-video-to-gif-converter.gif]]
 **2330** 💡 highlight the different phases since i started the digital garden, including websim, agents, etc...use red to point arrows and explain. Inspiration: https://x.com/iansbrash/status/1954581440391242146
 ![[media/Pasted image 20250825233025.png]]
@@ -81,6 +114,7 @@
 ## Health
 **Sleep:** 53 (0153-0455)
 
+**2353** 12.5mg seroquel
 **1943** 25mg edible
 **1844** nutty puddy
 **1700** 20min nap

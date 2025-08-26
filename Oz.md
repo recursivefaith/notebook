@@ -13,16 +13,17 @@
 		- [x] Update .bashrc for save agent
 		- [x] Mirror my .bashrc here in Obsidian (so others can see/copy/contribute to it)
 		- [x] Change my .bashrc to load this .[[bashrc]]
-	- [ ] Integrate crypto
-		- [ ] Create new wallets
-	- [ ] Integrate Handsfree.js
-		- [ ] Fix documentation
-		- [ ] Enable handsfree browsing
 	- [ ] Morpheus
+		- [ ] Improve graph view with colors (text, button)
 		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
+	- [ ] Integrate Handsfree.js
+		- [ ] Fix documentation
+		- [ ] Enable handsfree browsing
+	- [ ] Integrate crypto
+		- [ ] Create new wallets
 	- [ ] Funding [[notes/Opportunities]]
 	- [ ] Setup contact page
 - [ ] Obsidian/Quartz
@@ -33,20 +34,31 @@
 	- [ ] Animated QR Codes
 	- [ ] Animated QR Code reader
 - [ ] Socials
-	- [ ] X list for moots vs non moots for X Pro lists (easier to follow friends)
+	- [ ] Import opportunities
 	- [ ] Substack
-		- [ ] [[Egregore Bones]]
-		- [ ] [[Egregore Cosmology]]
+		- [ ] Draft
+			- [x] [[sparse matrix Matrix]]
+			- [ ] [[Egregore Bones]]
+			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
-	- [ ] Catch up on chorse
+	- [ ] Catch up on chores
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**2349** `<recursivefaith/content.git>` Expanded daily logs and tasks for 25-08-25, notably introducing the "sparse matrix Matrix" concept and its visualization. This commit integrates new media assets and detailed health entries, alongside minor task reordering. 
+**2339** Shared an EPIC stream of consciousness called [[sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
+![[media/sparsematrixmatrix-summary-ezgif.com-video-to-gif-converter.gif]]
+**2330** 💡 highlight the different phases since i started the digital garden, including websim, agents, etc...use red to point arrows and explain. Inspiration: https://x.com/iansbrash/status/1954581440391242146
+![[media/Pasted image 20250825233025.png]]
+![[media/Pasted image 20250825233152.png]]
+**1959** OK let's lock in 🧘 gonna try and get Handsfree.js working and do a demo, it'll look better at night i think with the light from projector, then i'll record in pov
+**1440** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined the Matrix Rain effect by increasing the opacity of its inactive cells. 
 **1359** `<recursivefaith/content.git>` Standardized the format of daily log headings in `changelog.md` to include the day of the week, enhancing readability. 
 **1356** `<recursivefaith/content.git>` Manually reordered daily logs and changelog entries to reverse chronological order, completing the task for standardizing historical data display. 
 **1350** `<recursivefaith/content.git>` Standardized reverse chronological ordering for daily logs and notes across all entries in `Oz.md`, including new content and a `.bashrc` update. 
 **1323** similar wave length to what i've been saying about [[Living Digital Gardens]] and the video I made yesterday
 ![[media/Pasted image 20250825132335.png]]
+![[media/Prismatic_Garden_of_Eden_Video-ezgif.com-optimize.gif]]
 **1318** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic, changing how new entries are added to history and changelog files. It now prioritizes insertion immediately after the first `## Notes` heading, then any `##` heading, otherwise appending to the end. 
 **1306** `<recursivefaith/content.git>` Refactored daily logging by migrating `History.md` content into `Oz.md` and deleting the old file. This commit also mirrors the `.bashrc` configuration and adds new organizational notes for opportunities, scratchpad, and chores. 
 **1149** damn i have extremely good conversations on [[ORI]]
@@ -65,9 +77,15 @@
 - [ ] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)
 - [ ] https://www.nomic.ai/research
 - [x] [The Logos](https://www.youtube.com/watch?v=wMYTeuvVHIw&t=1s)
+- [ ] [Advanced knowledge graph tooling for AGI systems](https://deepfunding.ai/rfp/advanced-knowledge-graph-tooling-for-agi-systems/)
 ## Health
 **Sleep:** 53 (0153-0455)
 
+**1943** 25mg edible
+**1844** nutty puddy
+**1700** 20min nap
+**1600** rice + eggs
+**1435** cofffee (omg i had six cups today, luckily no anxiety will need to reduce...felt depressed last night bc i thought i wasn't making progress, so couldn't sleep, but actually now that im more lucid i dont feel depressed, just need to explain what im working on better)
 **1145** coffee
 **1030** coffee
 **0837** *Feel much better!* 

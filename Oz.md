@@ -4,7 +4,7 @@
 # Diary
 
 ## 25-08-26 - Tuesday
-> **Todays focus:** Publish one Substack, get Handsfree.js working again
+> **Focus:** Get the Morpheus agent working
 
 - [ ] Recursive.faith
 	- [ ] Morpheus
@@ -17,10 +17,8 @@
 		- [ ] Enable handsfree browsing
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
-	- [x] Start funding [[notes/opportunities/Opportunities]]
 	- [ ] Setup contact page
 - [ ] Obsidian/Quartz
-	- [x] Improve graph view with colors (text, button)
 	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] show popups as windows
 - [ ] QRx
@@ -28,7 +26,6 @@
 	- [ ] Animated QR Codes
 	- [ ] Animated QR Code reader
 - [ ] Socials
-	- [x] Import opportunities
 	- [ ] Redirect personal domains
 	- [ ] Substack
 		- [ ] Draft
@@ -39,6 +36,43 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1154** `<recursivefaith/content.git>` Updated daily logs with new 25-08-26 entry focusing on Morpheus agent development and related research, alongside changelog updates and a new daily template. 
+**1135** late start but wow had a fascinating discussion in ORI. Turns out I have been on the right path aaaaaall along, all these years lmao, it's just that I need emotional support because I lack so much funding to "push through" the hard days (can't go on vacations or take breaks or anything)
+
+The focus today will be trying to get the [[notes/morpheus/Morpheus|Morpheus]] agent working, modelling it from the Minecraft Voyager paper: https://voyager.minedojo.org/
+
+I started this years ago but gave up bc I wasn't getting any attention, but actually I was at the very forefront all along (tbh tho "agents" as a concept was still very very early)
+
+The rough idea right now is to use Prime Intellects model, but instead of RL environments that adjust weights it "adjusts skills" (which are just text prompts)
+
+![[media/Pasted image 20250827113557.png]]
+![[media/Pasted image 20250827115339.png]]
+
+## Bookmarks
+- [ ] [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
+- [ ] [Absolute Zero Reasoner](https://x.com/_andrewzhao/status/1919920459748909288)
+## Health
+**Sleep:** 90 (0038-0821)
+**Weight:** 196.9
+
+## Money
+
+
+---
+
+
+## 25-08-26 - Tuesday
+> **Todays focus:** Publish one Substack, get Handsfree.js working again
+
+- [ ] Recursive.faith
+	- [x] Start funding [[notes/opportunities/Opportunities]]
+- [ ] Obsidian/Quartz
+	- [x] Improve graph view with colors (text, button)
+- [ ] Socials
+	- [x] Import opportunities
+	
+## Notes
+**0030** `<recursivefaith/recursivefaith.github.io.git>` Refined the Quartz graph view styling, updating node and link colors for better visual distinction and consistency. This commit also adjusted the graph's outer border, its icon's hover effect, and general SVG fill properties. 
 **0030** `<recursivefaith/content.git>` Completed daily tasks, including funding opportunities and graph view improvements. Expanded and restructured funding opportunities with new grants and updated database configurations, alongside a new daily log entry detailing database implementation challenges. 
 **2348** Started implementing Databases but unfortunately Quartz doesn't render them yet, so I'll need to build it. Kinda had a hard time emotionally trying to find these, because I don't see myself getting any of these. Surprisingly LLMs suck at deep researching structured data...no matter which model I tried it hallucinated data, so this will be harder to do than I thought...might not be worth it but for the ones I did get I'll share in ORI tomorrow [[notes/opportunities/Opportunities]]
 ![[media/Pasted image 20250826234808.png]]

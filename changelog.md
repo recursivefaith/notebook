@@ -5,6 +5,7 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
 **1033** `<recursivefaith/content.git>` Migrated AI chat logs, specifically a review of X profile and research framework, into a new note, including a deep dive into funding opportunities. A new image asset supports the chat content. 
 **1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
 **2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 

@@ -1,6 +1,7 @@
 
 > More coming soon
-# Previous Research
+# Research moodboard 
+>[!info] The following is a sample of past research that reflects my research trajectory
 
 | 2018-2023                          | Art                            | Other Interfaces                                                |
 | ---------------------------------- | ------------------------------ | --------------------------------------------------------------- |

@@ -1,5 +1,4 @@
-# Research
-> See [[Research]], I'll share more soon!
+![[Research#Research moodboard]]
 
 ---
 # Diary
@@ -8,7 +7,6 @@
 > **Todays focus:** Publish one Substack, get Handsfree.js working again
 
 - [ ] Recursive.faith
-	- [ ] Try and get the daily logs themselves reverse chronological too
 	- [ ] Morpheus
 		- [ ] Improve graph view with colors (text, button)
 		- [ ] Combine matrix rain and birds into one tab
@@ -40,6 +38,10 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
+**1910** 💡 "markdown apps", vibe coding inside of Obsidian
+**1705** Wow just learned we can transclude `![[page]]` pages into other pages in Obsidian, this is freakin epic. Gonna try and create an opportunities page and share that
+**1618** not a productive day today, have been feeling exhistential for a few days, as if i don't have a good outlook. I do tho, I just have to stay focused. A part of it is that I have no money at all and it's starting to weigh heavy on me, feel very anxious all the time that an emergency will come up
 **1033** `<recursivefaith/content.git>` Migrated AI chat logs, specifically a review of X profile and research framework, into a new note, including a deep dive into funding opportunities. A new image asset supports the chat content. 
 **1026** Started migrating some of my AI Chats, eventually will do them exclusively through this interface. Migrated yesterday's [[notes/chats/250825-x-review|250825-x-review]] with grok, lots of good insights!
 **1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
@@ -49,21 +51,31 @@ I like Cristobal but takes like these from leaders feels out of touch
 
 ![[media/Pasted image 20250826102100.png]]
 ## Bookmarks
-
+- [ ] [Semiotic Physics](https://www.nomad.garden/posts/semiotic-physics)
+- [ ] Emads new intelligent internet - https://www.symbioism.com/
+- [ ] Extremely cool art - https://www.reddit.com/r/creativecoding/comments/1mzbbgy/entropic_collapse/
+	- [ ] https://uconn.academia.edu/SebastianSchepis
+	- [ ] https://arxiv.org/abs/2410.18196
 
 ## Health
 **Sleep:** 82 (0050-0828)
 **Weight:** 197.1
 
+**1247** [[notes/health/nutty pudding|nutty pudding]] (ran out of most ingredients tho)
+**1100** coffee
 **0856** coffee
 **1014** coffee
+## Money
+**1358** 5.54 24min Prolific
+**1136** 4.75 40min CloudConnect
+**1224** 4.00 21min CloudConnect
 
 ---
 
 ## 25-08-25 - Monday - sparse matrix Matrix
 
 - [ ] Recursive.faith
-	- [ ] Try and get the daily logs themselves reverse chronological too
+	- [x] Try and get the daily logs themselves reverse chronological too
 		- [x] Auto git commit messages should
 		- [x] Manually order old ones
 	- [x] Move History to [[Oz]]
@@ -118,7 +130,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 
 **2353** 12.5mg seroquel
 **1943** 25mg edible
-**1844** nutty puddy
+**1844** [[notes/health/nutty pudding|nutty pudding]]
 **1700** 20min nap
 **1600** rice + eggs
 **1435** cofffee (omg i had six cups today, luckily no anxiety will need to reduce...felt depressed last night bc i thought i wasn't making progress, so couldn't sleep, but actually now that im more lucid i dont feel depressed, just need to explain what im working on better)

@@ -32,10 +32,17 @@
 			- [ ] [[Egregore Bones]]
 			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
-	- [ ] Catch up on chores
+	- [ ] Factory reset laptop
+		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
+	- [ ] Catch up on [[chores]]
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1436** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new personal tasks, reflections, and a reference to generative art. The commit also marks a bookmark as complete and adds a new health entry, alongside a new image asset. 
+**1413** this perfectly captures what I'm exploring with [[tutorials/Generative QR Codes|Generative QR Codes]] and [[Generative Zines]]
+https://twitter.com/poetengineer__/status/1960811769062126073
+![[media/Pasted image 20250827141547.png]]
+**1341** OK baby steps! Just took out the trash...gonna put on a pod and clean a bit while food is cooking. I think the beers I had last week completely destabilized me (since i ended up having shitty sleep for a few days, then the guilt of spending money on it)
 **1154** `<recursivefaith/content.git>` Updated daily logs with new 25-08-26 entry focusing on Morpheus agent development and related research, alongside changelog updates and a new daily template. 
 **1135** late start but wow had a fascinating discussion in ORI. Turns out I have been on the right path aaaaaall along, all these years lmao, it's just that I need emotional support because I lack so much funding to "push through" the hard days (can't go on vacations or take breaks or anything)
 
@@ -51,9 +58,12 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 ## Bookmarks
 - [ ] [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
 - [ ] [Absolute Zero Reasoner](https://x.com/_andrewzhao/status/1919920459748909288)
+- [x] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)_
 ## Health
 **Sleep:** 90 (0038-0821)
 **Weight:** 196.9
+
+**1221** [[notes/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 
 ## Money
 

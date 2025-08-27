@@ -8,7 +8,6 @@
 
 - [ ] Recursive.faith
 	- [ ] Morpheus
-		- [ ] Improve graph view with colors (text, button)
 		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
@@ -18,9 +17,10 @@
 		- [ ] Enable handsfree browsing
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
-	- [x] Start funding [[notes/Opportunities]]
+	- [x] Start funding [[notes/opportunities/Opportunities]]
 	- [ ] Setup contact page
 - [ ] Obsidian/Quartz
+	- [x] Improve graph view with colors (text, button)
 	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] show popups as windows
 - [ ] QRx
@@ -28,7 +28,8 @@
 	- [ ] Animated QR Codes
 	- [ ] Animated QR Code reader
 - [ ] Socials
-	- [ ] Import opportunities
+	- [x] Import opportunities
+	- [ ] Redirect personal domains
 	- [ ] Substack
 		- [ ] Draft
 			- [ ] [[Egregore Bones]]
@@ -38,6 +39,9 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**0030** `<recursivefaith/content.git>` Completed daily tasks, including funding opportunities and graph view improvements. Expanded and restructured funding opportunities with new grants and updated database configurations, alongside a new daily log entry detailing database implementation challenges. 
+**2348** Started implementing Databases but unfortunately Quartz doesn't render them yet, so I'll need to build it. Kinda had a hard time emotionally trying to find these, because I don't see myself getting any of these. Surprisingly LLMs suck at deep researching structured data...no matter which model I tried it hallucinated data, so this will be harder to do than I thought...might not be worth it but for the ones I did get I'll share in ORI tomorrow [[notes/opportunities/Opportunities]]
+![[media/Pasted image 20250826234808.png]]
 **2301** `<recursivefaith/content.git>` Expanded and restructured funding opportunities, adding several new AGI and Quantum computing grants, and completed the 'Start funding' task. Updated daily logs and changelog with recent site and content synchronizations. 
 **2200** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule with recent daily logs and content migrations, and added a `start` script to `package.json` for local Quartz site development. 
 **2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
@@ -63,14 +67,15 @@ I like Cristobal but takes like these from leaders feels out of touch
 **Sleep:** 82 (0050-0828)
 **Weight:** 197.1
 
+**2355** 
 **1247** [[notes/health/nutty pudding|nutty pudding]] (ran out of most ingredients tho)
 **1100** coffee
-**0856** coffee
 **1014** coffee
+**0856** coffee
 ## Money
 **1358** 5.54 24min Prolific
-**1136** 4.75 40min CloudConnect
 **1224** 4.00 21min CloudConnect
+**1136** 4.75 40min CloudConnect
 
 ---
 

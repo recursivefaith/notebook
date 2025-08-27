@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - file.inFolder("notes/opportunities")
+        - file.inFolder("notes/opportunities/2025")
     order:
       - file.name
       - amount (max)

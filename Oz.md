@@ -18,7 +18,7 @@
 		- [ ] Enable handsfree browsing
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
-	- [ ] Funding [[notes/Opportunities]]
+	- [x] Start funding [[notes/Opportunities]]
 	- [ ] Setup contact page
 - [ ] Obsidian/Quartz
 	- [ ] randomize styles each time it switches between bright/dark mode
@@ -38,6 +38,8 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**2301** `<recursivefaith/content.git>` Expanded and restructured funding opportunities, adding several new AGI and Quantum computing grants, and completed the 'Start funding' task. Updated daily logs and changelog with recent site and content synchronizations. 
+**2200** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule with recent daily logs and content migrations, and added a `start` script to `package.json` for local Quartz site development. 
 **2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
 **1910** 💡 "markdown apps", vibe coding inside of Obsidian
 **1705** Wow just learned we can transclude `![[page]]` pages into other pages in Obsidian, this is freakin epic. Gonna try and create an opportunities page and share that

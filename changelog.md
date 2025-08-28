@@ -5,6 +5,8 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**2345** `<recursivefaith/content.git>` Added a personal introduction to `Oz.md`, significantly updated the `25-08-26` daily log with new tasks, detailed progress on the Morpheus agent (including a Gemini API client update and working inline chat), and various personal reflections. Also, updated chore completion and added a recent commit to the changelog. 
+**2316** `<recursivefaith/morpheus.git>` Updated the Google Gemini API client from `@google/generative-ai` to `@google/genai` v1.16.0, refactoring chat message preparation and streaming logic to match the new API and explicitly use the "gemini-2.0-flash" model. This change involved extensive updates to dependency management and API integration. 
 **1436** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new personal tasks, reflections, and a reference to generative art. The commit also marks a bookmark as complete and adds a new health entry, alongside a new image asset. 
 **1154** `<recursivefaith/content.git>` Updated daily logs with new 25-08-26 entry focusing on Morpheus agent development and related research, alongside changelog updates and a new daily template. 
 **0030** `<recursivefaith/recursivefaith.github.io.git>` Refined the Quartz graph view styling, updating node and link colors for better visual distinction and consistency. This commit also adjusted the graph's outer border, its icon's hover effect, and general SVG fill properties. 

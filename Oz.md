@@ -1,15 +1,20 @@
-![[Research#Research moodboard]]
+> Hi! I'm Oz. I've turned down Google, Microsoft, and an OpenAI internship because I believed in my heart that the work I was doing was more immediately helpful. And I was right, but I was wrong in believing that I alone could see my work through
+> 
+> After nearly a decade of chronic homelessness and stays in residential mental health hospitals, I had a series of [[notes/epiphanies/Epiphanies|Epiphanies]] and decided to put faith in my own inner voice. These diaries document my journey in trying to embody that voice
+> 
+> *I'll have more info soon, thanks for visiting!*
 
 ---
 # Diary
 
 ## 25-08-26 - Tuesday
-> **Focus:** Get the Morpheus agent working
+
+> **Focus:** Get the [[notes/morpheus/Morpheus|Morpheus]] agent working
 
 - [ ] Recursive.faith
 	- [ ] Morpheus
+		- [x] Update API to gemini Flash
 		- [ ] Combine matrix rain and birds into one tab
-		- [ ] Update API to gemini Flash
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
 	- [ ] Integrate Handsfree.js
@@ -18,6 +23,9 @@
 	- [ ] Integrate crypto
 		- [ ] Create new wallets
 	- [ ] Setup contact page
+	- [ ] Research page
+		- [ ] Mood board
+			- [ ] Handsfree.js
 - [ ] Obsidian/Quartz
 	- [ ] randomize styles each time it switches between bright/dark mode
 	- [ ] show popups as windows
@@ -34,10 +42,23 @@
 - [ ] Personal
 	- [ ] Factory reset laptop
 		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
-	- [ ] Catch up on [[chores]]
+	- [x] Catch up on [[chores]]
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**2345** `<recursivefaith/content.git>` Added a personal introduction to `Oz.md`, significantly updated the `25-08-26` daily log with new tasks, detailed progress on the Morpheus agent (including a Gemini API client update and working inline chat), and various personal reflections. Also, updated chore completion and added a recent commit to the changelog. 
+**2324** HUZZAH!!!!! Finally got inline chat working perfectly with skills, check this out
+
+> [!chat] haiku about my goals 
+
+AI mind awakens,
+Hands-free world, new links connect,
+Future's path unfolds.
+
+**2316** `<recursivefaith/morpheus.git>` Updated the Google Gemini API client from `@google/generative-ai` to `@google/genai` v1.16.0, refactoring chat message preparation and streaming logic to match the new API and explicitly use the "gemini-2.0-flash" model. This change involved extensive updates to dependency management and API integration. 
+**2256** geeze ive been struggling this whole time to update to the new google api, i may as well just hand code this
+**1901** ok started installing [[Linux Mint]] from scratch...gonna document everything and see if it's possible to use this [[Living Digital Gardens]] to automatically configure it. Starting with Linux Mint bc it's easy to work with but the goal is eventually to work my way down to bare metal first with Arch then Alpine, and eventually leave the main internet altogether
+**1512** watered the tree...seems like it's greener, especially the little shrub growing next to it, but some of the leaves do look like they're drooping
 **1436** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new personal tasks, reflections, and a reference to generative art. The commit also marks a bookmark as complete and adds a new health entry, alongside a new image asset. 
 **1413** this perfectly captures what I'm exploring with [[tutorials/Generative QR Codes|Generative QR Codes]] and [[Generative Zines]]
 https://twitter.com/poetengineer__/status/1960811769062126073
@@ -56,16 +77,21 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 ![[media/Pasted image 20250827115339.png]]
 
 ## Bookmarks
+- [x] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)_
 - [ ] [Why Stacking Sliding Windows Can't See Very Far](https://guangxuanx.com/blog/stacking-swa.html)
 - [ ] [Absolute Zero Reasoner](https://x.com/_andrewzhao/status/1919920459748909288)
-- [x] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)_
+- [ ] [‘Arrival’ & the Universal Language](https://www.thesymbolicworld.com/content/arrival-the-universal-language)
 ## Health
 **Sleep:** 90 (0038-0821)
 **Weight:** 196.9
+**Dream:** Had a dream about [[private/c2015|c2015]] when she had me go to her undergrad courses. In real life she was very anxious and since I worked remote I would just pretend to be a student and work in the classroom lol. In the dream though we were in a huge cafeteria, like the size of a museum, and i had a work call so couldn't go to class with her. She left her bag and told me to watch it and the dream was about me losing the bag and trying to find it. It was a really long dream but I forgot all the details other than me trying to hide from her bc I couldn't find the bag lol There were some adventures like seeing dinosaurs and getting in a fight with theives trying to steal golden eggs from the cafeteria. There were other details I can't remember I woke up laughing tho
 
+**1630** 15min nap
+**1600** rice, 3 eggs, veggies
 **1221** [[notes/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 
 ## Money
+**1820** 10 20min Prolific
 
 
 ---
@@ -602,4 +628,3 @@ There's a city I keep visiting in my dreams, it feels nostalgic like i grew up t
 **Sleep:** 32 (0156-0738)
 
 **2330** 12.5mg seroquel
-

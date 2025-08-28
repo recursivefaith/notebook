@@ -1,11 +1,11 @@
 >[!info] I use this page to monitor chores
 
 - [ ] Kitchen
-	- [ ] Trash
+	- [x] Trash
 	- [ ] Washing machine
 	- [ ] Oven
 	- [ ] Microwave
-	- [ ] Countertops
+	- [x] Countertops
 	- [ ] Floor
 - [ ] Bathroom
 	- [ ] Counters

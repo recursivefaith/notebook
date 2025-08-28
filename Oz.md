@@ -6,14 +6,11 @@
 
 ---
 # Diary
-
-## 25-08-26 - Tuesday
-
-> **Focus:** Get the [[notes/morpheus/Morpheus|Morpheus]] agent working
+## 25-08-26 - Thursday
+> **Focus:** Share update on X about Morpheus
 
 - [ ] Recursive.faith
 	- [ ] Morpheus
-		- [x] Update API to gemini Flash
 		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Integrate Terminal (with vim, tmux)
 		- [ ] Add LLM to frontend too
@@ -42,10 +39,45 @@
 - [ ] Personal
 	- [ ] Factory reset laptop
 		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
-	- [x] Catch up on [[chores]]
+	- [ ] Catch up on [[chores]]
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
+
+	
 ## Notes
+**1257** `<recursivefaith/content.git>` Oz updated the daily log with a new Thursday entry and re-dated the previous one. Additionally, the Morpheus plugin now allows configuring the Gemini AI model, and website styling was refined. 
+**1257** `<recursivefaith/morpheus.git>` Feat: The Morpheus plugin now allows users to configure the Gemini model used for AI interactions via a new setting, defaulting to 'gemini-2.5-flash'. This update also streamlines chat message processing for the updated Gemini API. 
+**1008** Whoo! just had coffee for first time in a few days, had headache all night so it's surprising I got great sleep, I think the air conditioner helps
+
+## Bookmarks
+- [ ] 
+
+## Health
+**Sleep:** 87 (0007-0815)
+**Weight:** 195.8
+**Dream:** (nightmare) dreamt that I was living at home with [[private/k1991|k1991]] in our 2nd home and there was an extreme amount of tension, where he kept bringing bladed weapons and leaving them out to scare us. My pops and I agreed to settle our dispute and talk to him, which turned violent. There was a brief lightsaber duel but then back to the weapons. I remember asking mom if she knew what a halberd was and that there was one outside and she said don't worry he is just weird, and then he smitted her in front of me. I picked up the halberd from outside on the deck and I let out a battle cry and ran inside, the kitchen morphed into the dungeon basement and when I turned around I woke up
+
+**1145** coffee
+**1105** coffee
+**1005**  coffee
+
+## Money
+
+
+---
+
+
+## 25-08-26 - Wednsday
+
+> **Focus:** Get the [[notes/morpheus/Morpheus|Morpheus]] agent working
+
+- [ ] Recursive.faith
+	- [ ] Morpheus
+		- [x] Update API to gemini Flash
+	- [x] Catch up on [[chores]]
+	
+## Notes
+**2346** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined website styling by extending the `--bright` color to `<em>` (emphasis) tags, alongside `<i>` and `<code>` elements. 
 **2345** `<recursivefaith/content.git>` Added a personal introduction to `Oz.md`, significantly updated the `25-08-26` daily log with new tasks, detailed progress on the Morpheus agent (including a Gemini API client update and working inline chat), and various personal reflections. Also, updated chore completion and added a recent commit to the changelog. 
 **2324** HUZZAH!!!!! Finally got inline chat working perfectly with skills, check this out
 

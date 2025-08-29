@@ -1,4 +1,4 @@
-> Hi! I'm Oz. I turned down some wild offers because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
+> Hi! I'm Oz. I turned down some big offers because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
 > 
 > During a period of chronic homelessness and depression I had a series of [[notes/epiphanies|Epiphanies]] that were more feelings than coherent thoughts. These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]
 
@@ -9,7 +9,7 @@
 
 - [ ] Recursive.faith
 	- [ ] Content
-		- [ ] draft [[index|homepage]] buzzwords
+		- [x] draft [[index|homepage]] buzzwords
 		- [ ] explain [[Living Digital Gardens]]
 		- [ ] fill out preliminary research
 	- [ ] Morpheus
@@ -39,7 +39,7 @@
 	- [ ] Redirect personal domains
 	- [ ] Substack
 		- [ ] Draft
-			- [ ] [[Egregore Bones]]
+			- [x] [[Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
 	- [ ] Factory reset laptop
@@ -51,6 +51,9 @@
 
 	
 ## Notes
+**0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 
+**2343** Started doing my chats here, eventually will implement search to replace Perplexity and then just do 100% of all my work literally in this monorepo and share it openly, gonna work on my [[notes/chats/250829 - X Posting Strategy|250829 - X Posting Strategy]] tho, instead of posting hourly gonna scale back to posting only a few times a week (but replying every day), [[ORI]] is super high signal. I feel super positive, i was feeling distressed last week but am feeling very hopeful and positive now that this site is coming together
+**2326** `<recursivefaith/recursivefaith.github.io.git>` Refactor: Renamed "Graph View" to "Virtual Egregore" across UI locales. Feat: Enhanced Matrix Rain effects to trigger on image hover and refined the number of rain drops generated when hovering over links. 
 **2326** `<recursivefaith/content.git>` Feat: Enhanced mobile responsiveness across the site and updated the homepage with a "work in progress" note. Refactor: Renamed a placeholder in the daily log to "Virtual Egregore." 
 **2056** 💡record screen with phone closeup
 **2032** `<recursivefaith/recursivefaith.github.io.git>` Enhanced mobile responsiveness by ensuring images fill their containers and the right sidebar displays correctly on screens up to 992px wide. 
@@ -70,9 +73,10 @@
 ## Health
 **Sleep:** 87 (0007-0815)
 **Weight:** 195.8
-**Dream:** (nightmare) dreamt that I was living at home with [[private/k1991|k1991]] in our 2nd home and there was an extreme amount of tension, where he kept bringing bladed weapons and leaving them out to scare us. My pops and I agreed to settle our dispute and talk to him, which turned violent. There was a brief lightsaber duel but then back to the weapons. I remember asking mom if she knew what a halberd was and that there was one outside and she said don't worry he is just weird, and then he smitted her in front of me. I picked up the halberd from outside on the deck and I let out a battle cry and ran inside, the kitchen morphed into the dungeon basement and when I turned around I woke up
+**Dream:** (nightmare) dreamt that I was living at home with [[private/k191|k191]] in our 2nd home and there was an extreme amount of tension, where he kept bringing weapons and leaving them out to scare us. My pops and I agreed to settle our dispute and talk to him, but it turned violent. There was a brief lightsaber duel but then back to the weapons. I remember asking mom if she knew what a halberd was and that there was one outside and she said don't worry he is just weird, and then he smitted her in front of me. I picked up the halberd from outside on the deck and I let out a battle cry and ran inside, the kitchen morphed into the dungeon basement and when I turned around I woke up
 
-**1924** 20mg edible
+**2351** 12.5mg [[seroquel]]
+**1924** 20mg [[edible]]
 **1628** rice, veggies, 2 eggs
 **1340** [[notes/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 **1145** coffee
@@ -144,7 +148,7 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 ## Health
 **Sleep:** 90 (0038-0821)
 **Weight:** 196.9
-**Dream:** Had a dream about [[private/c2015|c2015]] when she had me go to her undergrad courses. In real life she was very anxious and since I worked remote I would just pretend to be a student and work in the classroom lol. In the dream though we were in a huge cafeteria, like the size of a museum, and i had a work call so couldn't go to class with her. She left her bag and told me to watch it and the dream was about me losing the bag and trying to find it. It was a really long dream but I forgot all the details other than me trying to hide from her bc I couldn't find the bag lol There were some adventures like seeing dinosaurs and getting in a fight with theives trying to steal golden eggs from the cafeteria. There were other details I can't remember I woke up laughing tho
+**Dream:** Had a dream about [[private/c215|c215]] when she had me go to her undergrad courses. In real life she was very anxious and since I worked remote I would just pretend to be a student and work in the classroom lol. In the dream though we were in a huge cafeteria, like the size of a museum, and i had a work call so couldn't go to class with her. She left her bag and told me to watch it and the dream was about me losing the bag and trying to find it. It was a really long dream but I forgot all the details other than me trying to hide from her bc I couldn't find the bag lol There were some adventures like seeing dinosaurs and getting in a fight with theives trying to steal golden eggs from the cafeteria. There were other details I can't remember I woke up laughing tho
 
 **1630** 15min nap
 **1600** rice, 3 eggs, veggies
@@ -224,7 +228,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 	- [ ] Substack
 		- [ ] Draft
 			- [x] [[notes/metaphors/sparse matrix Matrix]]
-			- [ ] [[Egregore Bones]]
+			- [ ] [[Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
 	
 ## Notes
@@ -248,7 +252,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 **1149** damn i have extremely good conversations on [[ORI]]
 **1121** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by significantly increasing its falling speed range and extending its interactive triggers to include checkboxes, dynamically styling the rain based on their checked state. Additionally, styled checkboxes with a custom border color. 
 **1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
-**1052** [[Egregore Bones]] - Use soft body physics to generate "creatures" around the "shape" of data
+**1052** [[Egregore Biology]] - Use soft body physics to generate "creatures" around the "shape" of data
 **1030** Been thinking about [[Egregore Cosmology]]
 **0909** Gonna start thinking about migrating away from Obsidian completely to the pure QR Code concept, but I'll keep using Obsidian as a kind of "entry" to this concept, so that I can overlap the Obsidian/Personal Knowledge Base communities
 **0846** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 

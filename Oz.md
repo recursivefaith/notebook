@@ -43,6 +43,7 @@
 	- [ ] Clear Youtube Watch
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 ## Notes
+**1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
 **1107** Whooo! Hell yeah I love it when people engage with tweets, I was anxious that it was too exoteric (still might be tbh) but it's a good feeling. Instead of sharing code or things I want to share the process, since everyone's digital garden will be built differently
 
@@ -74,7 +75,7 @@
 - [ ] Socials
 	- [ ] Substack
 		- [ ] Draft
-			- [x] [[Egregore Biology]]
+			- [x] [[notes/Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
 
 ## Notes
@@ -255,7 +256,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 	- [ ] Substack
 		- [ ] Draft
 			- [x] [[notes/metaphors/sparse matrix Matrix]]
-			- [ ] [[Egregore Biology]]
+			- [ ] [[notes/Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
 	
 ## Notes
@@ -279,7 +280,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 **1149** damn i have extremely good conversations on [[ORI]]
 **1121** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by significantly increasing its falling speed range and extending its interactive triggers to include checkboxes, dynamically styling the rain based on their checked state. Additionally, styled checkboxes with a custom border color. 
 **1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
-**1052** [[Egregore Biology]] - Use soft body physics to generate "creatures" around the "shape" of data
+**1052** [[notes/Egregore Biology]] - Use soft body physics to generate "creatures" around the "shape" of data
 **1030** Been thinking about [[Egregore Cosmology]]
 **0909** Gonna start thinking about migrating away from Obsidian completely to the pure QR Code concept, but I'll keep using Obsidian as a kind of "entry" to this concept, so that I can overlap the Obsidian/Personal Knowledge Base communities
 **0846** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 

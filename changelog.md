@@ -5,6 +5,7 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
 **0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 
 **2326** `<recursivefaith/recursivefaith.github.io.git>` Refactor: Renamed "Graph View" to "Virtual Egregore" across UI locales. Feat: Enhanced Matrix Rain effects to trigger on image hover and refined the number of rain drops generated when hovering over links. 

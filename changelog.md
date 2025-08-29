@@ -5,6 +5,8 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**2326** `<recursivefaith/content.git>` Feat: Enhanced mobile responsiveness across the site and updated the homepage with a "work in progress" note. Refactor: Renamed a placeholder in the daily log to "Virtual Egregore." 
+**2032** `<recursivefaith/recursivefaith.github.io.git>` Enhanced mobile responsiveness by ensuring images fill their containers and the right sidebar displays correctly on screens up to 992px wide. 
 **2031** `<recursivefaith/content.git>` Expanded the digital garden with new conceptual notes on AR, Crypto, Mesh Networking, Network States, and WebXR, integrating them into the homepage and updating Oz's personal introduction. Daily logs reflect continued development on Matrix Rain effects and the Morpheus AI agent. 
 **1837** `<recursivefaith/recursivefaith.github.io.git>` Feat: Enhanced Matrix Rain effect with new interactive mouse-trail "trickle" drops that grow dynamically. Refactor: Refined character rendering, gradient application, and drop removal logic to support the new trickle drops and ensure the white lead remains at the bottom of non-trickle streams. 
 **1825** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by enabling uppercase characters, making rain drops shorter, slower, and preventing them from overlapping in the same column. Increased the background trickle rate, brightened trickle streams, and made characters fade out faster and more smoothly into the background. 

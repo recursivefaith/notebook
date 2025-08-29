@@ -3,15 +3,17 @@ title: Welcome
 ---
 # I'm [[Oz|Oz]] and I'm exploring [[Living Digital Gardens]]
 
-**The idea is to [[notes/epiphanies/transmigration|encode myself]] into offline [[tutorials/Generative QR Codes|Generative QR Codes]] that spawn agentic mixed realities sustained by crypto. Technically they are [[Network States|Virtual Network States]] but I like calling them "[[Living Digital Gardens]]" because they are grounded in your dataverse**
+**The idea is to [[notes/epiphanies/transmigration|encode myself]] into offline [[tutorials/Generative QR Codes|Generative QR Codes]] that spawn agentic mixed realities sustained by crypto. Technically they are [[notes/Network States|Virtual Network States]] but I like calling them "[[Living Digital Gardens]]" because they are grounded in your dataverse**
+
+> **[[Red links]]** don't work yet (*they will eventually self generate*)
 
 ---
 ## Why it will work
 
 > **Extending reality is possible:**
->- it's possible to [[Augmented Reality|augment reality]]
-> - it's possible to create your own [[Mesh Networking|mesh network]]
->- it's possible to trade [[Crypto|crypto]] through mesh networks
+>- it's possible to [[notes/Augmented Reality|augment reality]]
+> - it's possible to create your own [[notes/Mesh Networking|mesh network]]
+>- it's possible to trade [[notes/Crypto|crypto]] through mesh networks
 >- it's possible to vibe code any interface you need for any data
 >- it's possible to use mesh networked crypto to run a Network State
 >- this can happen agentically
@@ -23,8 +25,8 @@ title: Welcome
 
 >  **You can bootstrap realities with QR Codes:**
 > - it's possible to create [[tutorials/Generative QR Codes|Generative QR Codes]]
->- it's possible to create generative [[Mesh Networking|mesh networked]] qr codes
->- it's possible for qr codes to generate [[WebXR]] experiences
+>- it's possible to create generative [[notes/Mesh Networking|mesh networked]] qr codes
+>- it's possible for qr codes to generate [[notes/WebXR]] experiences
 >- it's possible to make qr codes by hand
 >- it's possible to make qr codes from literally dirt
 

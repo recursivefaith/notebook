@@ -1,15 +1,14 @@
-> Hi! I'm Oz. I turned down some big offers because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
+> Hi! I'm Oz. I turned down Google and an OpenAI internship in 2019 because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
 > 
-> During a period of chronic homelessness and depression I had a series of [[notes/epiphanies|Epiphanies]] that were more feelings than coherent thoughts. These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]
+> During a period of chronic homelessness and depression I had a series of [[notes/epiphanies|Epiphanies]] that were more like feelings than coherent thoughts. I finally decided to act on those thoughts years later, and these diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]
 
 ---
 # Diary
-## 25-08-26 - Thursday
-> **Focus:** Share update on X about Morpheus
+## 25-08-29 - Friday
+> **Focus:** Start posting in Obsidian Discord, get handsfree.js working
 
 - [ ] Recursive.faith
 	- [ ] Content
-		- [x] draft [[index|homepage]] buzzwords
 		- [ ] explain [[Living Digital Gardens]]
 		- [ ] fill out preliminary research
 	- [ ] Morpheus
@@ -26,20 +25,16 @@
 		- [ ] Mood board
 			- [ ] Handsfree.js
 - [ ] Obsidian/Quartz
-	- [x] more rizz effects
-	- [x] improve mobile
-		- [x] max width graphs
-		- [x] max width images
 	- [ ] Rename Graph view to [[Virtual Egregior]]
 - [ ] QRx
 	- [ ] Show QR Code for each page
 	- [ ] Animated QR Codes
 	- [ ] Animated QR Code reader
 - [ ] Socials
+	- [x] Tweet about [[Virtual Egregior]]
 	- [ ] Redirect personal domains
 	- [ ] Substack
 		- [ ] Draft
-			- [x] [[Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
 	- [ ] Factory reset laptop
@@ -47,9 +42,41 @@
 	- [ ] Catch up on [[chores]]
 	- [ ] Clear Youtube Watch
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
-	
+## Notes
+**1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
+**1107** Whooo! Hell yeah I love it when people engage with tweets, I was anxious that it was too exoteric (still might be tbh) but it's a good feeling. Instead of sharing code or things I want to share the process, since everyone's digital garden will be built differently
 
-	
+
+## Bookmarks
+- [ ] 
+
+## Health
+**Sleep:** 78 (1244-0813), I was too excited to post this mornings tweet and couldn't sleep 😅
+**Weight:** 195.5
+
+## Money
+
+
+---
+
+
+## 25-08-28 - Thursday
+> **Focus:** Share update on X about Morpheus
+
+- [ ] Recursive.faith
+	- [ ] Content
+		- [x] draft [[index|homepage]] buzzwords
+- [ ] Obsidian/Quartz
+	- [x] more rizz effects
+	- [x] improve mobile
+		- [x] max width graphs
+		- [x] max width images
+- [ ] Socials
+	- [ ] Substack
+		- [ ] Draft
+			- [x] [[Egregore Biology]]
+			- [ ] [[Egregore Cosmology]]
+
 ## Notes
 **0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 
 **2343** Started doing my chats here, eventually will implement search to replace Perplexity and then just do 100% of all my work literally in this monorepo and share it openly, gonna work on my [[notes/chats/250829 - X Posting Strategy|250829 - X Posting Strategy]] tho, instead of posting hourly gonna scale back to posting only a few times a week (but replying every day), [[ORI]] is super high signal. I feel super positive, i was feeling distressed last week but am feeling very hopeful and positive now that this site is coming together
@@ -89,7 +116,7 @@
 ---
 
 
-## 25-08-26 - Wednsday
+## 25-08-27 - Wednsday
 
 > **Focus:** Get the [[notes/morpheus/Morpheus|Morpheus]] agent working
 

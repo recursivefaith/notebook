@@ -1,8 +1,6 @@
-> Hi! I'm Oz. I've turned down Google, Microsoft, and an OpenAI internship because I believed in my heart that the work I was doing was more immediately helpful. And I was right, but I was wrong in believing that I alone could see my work through
+> Hi! I'm Oz. I turned down some wild offers because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
 > 
-> After nearly a decade of chronic homelessness and stays in residential mental health hospitals, I had a series of [[notes/epiphanies/Epiphanies|Epiphanies]] and decided to put faith in my own inner voice. These diaries document my journey in trying to embody that voice
-> 
-> *I'll have more info soon, thanks for visiting!*
+> During a period of chronic homelessness and depression I had a series of [[notes/epiphanies|Epiphanies]] that were more feelings than coherent thoughts. These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]
 
 ---
 # Diary
@@ -10,9 +8,13 @@
 > **Focus:** Share update on X about Morpheus
 
 - [ ] Recursive.faith
+	- [ ] Content
+		- [ ] draft [[index|homepage]] buzzwords
+		- [ ] explain [[Living Digital Gardens]]
+		- [ ] fill out preliminary research
 	- [ ] Morpheus
-		- [ ] Combine matrix rain and birds into one tab
 		- [ ] Integrate Terminal (with vim, tmux)
+		- [ ] Import any links as context
 		- [ ] Add LLM to frontend too
 	- [ ] Integrate Handsfree.js
 		- [ ] Fix documentation
@@ -24,8 +26,11 @@
 		- [ ] Mood board
 			- [ ] Handsfree.js
 - [ ] Obsidian/Quartz
-	- [ ] randomize styles each time it switches between bright/dark mode
-	- [ ] show popups as windows
+	- [x] more rizz effects
+	- [x] improve mobile
+		- [x] max width graphs
+		- [x] max width images
+	- [ ] Rename Graph view to [[Virtual Egregior]]
 - [ ] QRx
 	- [ ] Show QR Code for each page
 	- [ ] Animated QR Codes
@@ -40,11 +45,18 @@
 	- [ ] Factory reset laptop
 		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
 	- [ ] Catch up on [[chores]]
+	- [ ] Clear Youtube Watch
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 
 	
 ## Notes
+**2031** `<recursivefaith/content.git>` Expanded the digital garden with new conceptual notes on AR, Crypto, Mesh Networking, Network States, and WebXR, integrating them into the homepage and updating Oz's personal introduction. Daily logs reflect continued development on Matrix Rain effects and the Morpheus AI agent. 
+**2020** [tweet video] 
+**1837** `<recursivefaith/recursivefaith.github.io.git>` Feat: Enhanced Matrix Rain effect with new interactive mouse-trail "trickle" drops that grow dynamically. Refactor: Refined character rendering, gradient application, and drop removal logic to support the new trickle drops and ensure the white lead remains at the bottom of non-trickle streams. 
+**1825** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by enabling uppercase characters, making rain drops shorter, slower, and preventing them from overlapping in the same column. Increased the background trickle rate, brightened trickle streams, and made characters fade out faster and more smoothly into the background. 
+**1341** Had another amazing discussion on [[ORI]] around embodied egregores, eg, how Pepe the Frog escaped the artists imagination, how Shiba Doge became a coin and even government agency, and how they relate to [[Dragons]] as in dragons are amorphous
+![[media/Pasted image 20250828134316.png]]
 **1257** `<recursivefaith/content.git>` Oz updated the daily log with a new Thursday entry and re-dated the previous one. Additionally, the Morpheus plugin now allows configuring the Gemini AI model, and website styling was refined. 
 **1257** `<recursivefaith/morpheus.git>` Feat: The Morpheus plugin now allows users to configure the Gemini model used for AI interactions via a new setting, defaulting to 'gemini-2.5-flash'. This update also streamlines chat message processing for the updated Gemini API. 
 **1008** Whoo! just had coffee for first time in a few days, had headache all night so it's surprising I got great sleep, I think the air conditioner helps
@@ -57,6 +69,9 @@
 **Weight:** 195.8
 **Dream:** (nightmare) dreamt that I was living at home with [[private/k1991|k1991]] in our 2nd home and there was an extreme amount of tension, where he kept bringing bladed weapons and leaving them out to scare us. My pops and I agreed to settle our dispute and talk to him, which turned violent. There was a brief lightsaber duel but then back to the weapons. I remember asking mom if she knew what a halberd was and that there was one outside and she said don't worry he is just weird, and then he smitted her in front of me. I picked up the halberd from outside on the deck and I let out a battle cry and ran inside, the kitchen morphed into the dungeon basement and when I turned around I woke up
 
+**1924** 20mg edible
+**1628** rice, veggies, 2 eggs
+**1340** [[notes/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 **1145** coffee
 **1105** coffee
 **1005**  coffee

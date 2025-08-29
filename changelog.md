@@ -5,6 +5,9 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**2031** `<recursivefaith/content.git>` Expanded the digital garden with new conceptual notes on AR, Crypto, Mesh Networking, Network States, and WebXR, integrating them into the homepage and updating Oz's personal introduction. Daily logs reflect continued development on Matrix Rain effects and the Morpheus AI agent. 
+**1837** `<recursivefaith/recursivefaith.github.io.git>` Feat: Enhanced Matrix Rain effect with new interactive mouse-trail "trickle" drops that grow dynamically. Refactor: Refined character rendering, gradient application, and drop removal logic to support the new trickle drops and ensure the white lead remains at the bottom of non-trickle streams. 
+**1825** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by enabling uppercase characters, making rain drops shorter, slower, and preventing them from overlapping in the same column. Increased the background trickle rate, brightened trickle streams, and made characters fade out faster and more smoothly into the background. 
 **1257** `<recursivefaith/content.git>` Oz updated the daily log with a new Thursday entry and re-dated the previous one. Additionally, the Morpheus plugin now allows configuring the Gemini AI model, and website styling was refined. 
 **1257** `<recursivefaith/morpheus.git>` Feat: The Morpheus plugin now allows users to configure the Gemini model used for AI interactions via a new setting, defaulting to 'gemini-2.5-flash'. This update also streamlines chat message processing for the updated Gemini API. 
 **2346** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined website styling by extending the `--bright` color to `<em>` (emphasis) tags, alongside `<i>` and `<code>` elements. 

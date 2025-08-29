@@ -2,6 +2,7 @@
 created: 2025-03-28
 updated: 2025-03-28
 ---
+>[!info] 250828 - This is an old draft but still somewhat
 # Recursive Faith
 
 **Subject:** Defining the Overarching Framework

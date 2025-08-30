@@ -5,6 +5,7 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**1735** `<recursivefaith/content.git>` Updated daily logs for August 28-29, 2025, in `Oz.md`, including new tasks, notes on social media engagement, and the addition of related images and bookmarks. 
 **1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
 **0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 

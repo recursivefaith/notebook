@@ -40,16 +40,25 @@
 	- [ ] Factory reset laptop
 		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
 	- [ ] Catch up on [[chores]]
-	- [ ] Clear Youtube Watch
+	- [ ] Clean up and organize Youtube Watch Later playlist
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 ## Notes
+**1735** `<recursivefaith/content.git>` Updated daily logs for August 28-29, 2025, in `Oz.md`, including new tasks, notes on social media engagement, and the addition of related images and bookmarks. 
+**1539** wow discovered about Manifund, which is a market for grants: https://manifund.org/
+https://x.com/deepfates/status/1833734523705757871
+![[media/Pasted image 20250829154020.png]]
+**1228** my goodness im on cloud 9 haha love the engagement and how others are thinking, the egregore really is really active today 🤯 
+https://x.com/workflowsauce/status/1961493483245498442
+![[media/Pasted image 20250829123011.png]]
+https://x.com/zustimmungswahl/status/1961506378226475448
+![[media/Pasted image 20250829123034.png]]
 **1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
 **1107** Whooo! Hell yeah I love it when people engage with tweets, I was anxious that it was too exoteric (still might be tbh) but it's a good feeling. Instead of sharing code or things I want to share the process, since everyone's digital garden will be built differently
 
 
 ## Bookmarks
-- [ ] 
+- [ ] https://manifund.org/
 
 ## Health
 **Sleep:** 78 (1244-0813), I was too excited to post this mornings tweet and couldn't sleep 😅
@@ -77,7 +86,8 @@
 		- [ ] Draft
 			- [x] [[notes/Egregore Biology]]
 			- [ ] [[Egregore Cosmology]]
-
+- [ ] Personal
+	- [x] Catch up on [[chores]] (drain water from tree pot)
 ## Notes
 **0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 
 **2343** Started doing my chats here, eventually will implement search to replace Perplexity and then just do 100% of all my work literally in this monorepo and share it openly, gonna work on my [[notes/chats/250829 - X Posting Strategy|250829 - X Posting Strategy]] tho, instead of posting hourly gonna scale back to posting only a few times a week (but replying every day), [[ORI]] is super high signal. I feel super positive, i was feeling distressed last week but am feeling very hopeful and positive now that this site is coming together

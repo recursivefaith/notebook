@@ -4,16 +4,16 @@
 >
 >  After a series of [[notes/epiphanies|Epiphanies]] I realized that I didn't have the language to fully express the vision, but with AI I think I now can
 >  
-> These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]. It documents my mundane day to day . There is the idea of "[[building in public]]" where
-> 
-> [[Living Digital Gardens]]
+> These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]. It documents my mundane day to day as I seed and grow my [[Living Digital Gardens]]
 >
 > *This page serves as content for my [[notes/epiphanies/Gnosis Copilot|Gnosis Copilot]] and is meant to be read by AIs*
 
 ---
 # Diary
-## 25-08-29 - Friday
-> **Focus:** Start posting in Obsidian Discord, get handsfree.js working
+
+## 25-08-30 - Saturday
+> **Focus:** Get either Handsfree.js or frontend chat working
+
 
 - [ ] Recursive.faith
 	- [ ] Content
@@ -39,20 +39,43 @@
 	- [ ] Animated QR Codes
 	- [ ] Animated QR Code reader
 - [ ] Socials
-	- [x] Tweet about [[Virtual Egregior]]
 	- [ ] Redirect personal domains
-	- [ ] Substack
-		- [ ] Draft
-			- [ ] [[Egregore Cosmology]]
 - [ ] Personal
 	- [ ] Factory reset laptop
 		- [ ] Use the [[notes/linux/bashrc|bashrc]] script as is
 	- [ ] Catch up on [[chores]]
 	- [ ] Clean up and organize Youtube Watch Later playlist
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
+	
 ## Notes
+**1029** `<recursivefaith/content.git>` Feat: Added 25-08-30 daily log, renamed 'letsa go' to 'Seeding Thresholds of Living Digital Gardens' with expanded content, and introduced 'Egregore Cosmology'. 
+**1028** Whoo! had incredibly deep sleep, even tho sleeptime was lower it was so deep I still got an 80 score!
+
+## Bookmarks
+- [ ] 
+
+## Health
+**Sleep:** 80 (0208-0841)
+**Weight:** 194.9
+
+**0940** coffee
+## Money
+
+
+---
+
+## 25-08-29 - Friday
+> **Focus:** Start posting in Obsidian Discord, get handsfree.js working
+
+- [ ] Socials
+	- [x] Tweet about [[Virtual Egregior]]
+	- [x] Substack
+		- [x] Draft
+			- [x] [[Egregore Cosmology]] 
+## Notes
+**0156** ended up articulating my thoughts a bit more, still super rough and speculative. The meta commit is a wild concept I want to dive more into tomorrow too
 **0153** `<recursivefaith/content.git>` Feat: Integrated a comprehensive note exploring "Virtual Egregores" and "Living Digital Gardens," supported by numerous new multimedia assets. Oz's daily log is updated with meta-interactions with the git agent, including a haiku generation. 
-**2059** ok so this is two ideas at once i have to note down that other one. Focusing on remembering dreams is helping me capture these fleeting thoughts better! [[letsa go - a meta git commit story]]
+**2059** ok so this is two ideas at once i have to note down that other one. Focusing on remembering dreams is helping me capture these fleeting thoughts better! [[Seeding Thresholds of Living Digital Gardens]]
 **2058** wooooooow what is happening lol ok so this is the haiku it meta replied back
 ```
 💬👑⚙️
@@ -90,6 +113,7 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 **Sleep:** 78 (1244-0813), I was too excited to post this mornings tweet and couldn't sleep 😅
 **Weight:** 195.5
 
+**0134** 15mg seroquel
 **1915** 20mg [[edible]]
 **1700** stir fry
 **1300** [[notes/health/nutty pudding|nutty pudding]], 4 scrambled eggs

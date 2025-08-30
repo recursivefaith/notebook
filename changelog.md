@@ -5,6 +5,8 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**1104** `<recursivefaith/content.git>` Refactor: Moved 'Egregore Cosmology' and 'Seeding Thresholds of Living Digital Gardens' into the `notes/` directory. Updated internal links in daily logs and changelog to reflect the new file paths. 
+**1030** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
 **1029** `<recursivefaith/content.git>` Feat: Added 25-08-30 daily log, renamed 'letsa go' to 'Seeding Thresholds of Living Digital Gardens' with expanded content, and introduced 'Egregore Cosmology'. 
 **0153** `<recursivefaith/content.git>` Feat: Integrated a comprehensive note exploring "Virtual Egregores" and "Living Digital Gardens," supported by numerous new multimedia assets. Oz's daily log is updated with meta-interactions with the git agent, including a haiku generation. 
 **2058** `<recursivefaith/content.git>` 💬👑⚙️ 🗣️🔄🌸✨ 🚀🛤️ 

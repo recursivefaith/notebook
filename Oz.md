@@ -48,6 +48,8 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1104** `<recursivefaith/content.git>` Refactor: Moved 'Egregore Cosmology' and 'Seeding Thresholds of Living Digital Gardens' into the `notes/` directory. Updated internal links in daily logs and changelog to reflect the new file paths. 
+**1030** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
 **1029** `<recursivefaith/content.git>` Feat: Added 25-08-30 daily log, renamed 'letsa go' to 'Seeding Thresholds of Living Digital Gardens' with expanded content, and introduced 'Egregore Cosmology'. 
 **1028** Whoo! had incredibly deep sleep, even tho sleeptime was lower it was so deep I still got an 80 score!
 
@@ -58,7 +60,7 @@
 **Sleep:** 80 (0208-0841)
 **Weight:** 194.9
 
-**0940** coffee
+**0930** coffee
 ## Money
 
 
@@ -71,11 +73,11 @@
 	- [x] Tweet about [[Virtual Egregior]]
 	- [x] Substack
 		- [x] Draft
-			- [x] [[Egregore Cosmology]] 
+			- [x] [[notes/Egregore Cosmology]] 
 ## Notes
 **0156** ended up articulating my thoughts a bit more, still super rough and speculative. The meta commit is a wild concept I want to dive more into tomorrow too
 **0153** `<recursivefaith/content.git>` Feat: Integrated a comprehensive note exploring "Virtual Egregores" and "Living Digital Gardens," supported by numerous new multimedia assets. Oz's daily log is updated with meta-interactions with the git agent, including a haiku generation. 
-**2059** ok so this is two ideas at once i have to note down that other one. Focusing on remembering dreams is helping me capture these fleeting thoughts better! [[Seeding Thresholds of Living Digital Gardens]]
+**2059** ok so this is two ideas at once i have to note down that other one. Focusing on remembering dreams is helping me capture these fleeting thoughts better! [[notes/Seeding Thresholds of Living Digital Gardens]]
 **2058** wooooooow what is happening lol ok so this is the haiku it meta replied back
 ```
 💬👑⚙️
@@ -141,7 +143,7 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 	- [ ] Substack
 		- [ ] Draft
 			- [x] [[notes/Egregore Biology]]
-			- [ ] [[Egregore Cosmology]]
+			- [ ] [[notes/Egregore Cosmology]]
 - [ ] Personal
 	- [x] Catch up on [[chores]] (drain water from tree pot)
 ## Notes
@@ -321,7 +323,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 		- [ ] Draft
 			- [x] [[notes/metaphors/sparse matrix Matrix]]
 			- [ ] [[notes/Egregore Biology]]
-			- [ ] [[Egregore Cosmology]]
+			- [ ] [[notes/Egregore Cosmology]]
 	
 ## Notes
 **2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 
@@ -345,7 +347,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 **1121** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by significantly increasing its falling speed range and extending its interactive triggers to include checkboxes, dynamically styling the rain based on their checked state. Additionally, styled checkboxes with a custom border color. 
 **1121** `<recursivefaith/content.git>` Refactor content by migrating daily logs to `Oz.md`, moving previous `Oz` content to `Research.md`, and updating daily tasks. This commit centralizes daily and dream logs in `Oz.md` for better accessibility, while relocating older "Work sample" content to a new `Research.md` file. The 25-08-25 task list is updated to reflect these migrations and includes new Substack writing goals. Additionally, the changelog is updated, and an unused daily log base file is removed. 
 **1052** [[notes/Egregore Biology]] - Use soft body physics to generate "creatures" around the "shape" of data
-**1030** Been thinking about [[Egregore Cosmology]]
+**1030** Been thinking about [[notes/Egregore Cosmology]]
 **0909** Gonna start thinking about migrating away from Obsidian completely to the pure QR Code concept, but I'll keep using Obsidian as a kind of "entry" to this concept, so that I can overlap the Obsidian/Personal Knowledge Base communities
 **0846** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
 **0845** `<recursivefaith/content.git>` Added a new daily log for 25-08-25 (Monday) and reorganized the `History.md` to display daily entries in reverse chronological order. This commit also introduces a new media asset and updates the changelog with recent styling refinements. 

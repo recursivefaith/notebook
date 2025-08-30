@@ -5,6 +5,7 @@ title: Changelog
 
 # August 2025
 ## 25-08-25 - Monday
+**2036** `<recursivefaith/content.git>` Refactor: Expanded the personal introduction in `Oz.md` to detail Oz's journey from burnout to generative art and the vision for Recursive Faith with AI. Feat/Refactor: Added detailed health and food entries for 25-08-29 and systematically removed all 'Dream' entries from past daily logs. 
 **1735** `<recursivefaith/content.git>` Updated daily logs for August 28-29, 2025, in `Oz.md`, including new tasks, notes on social media engagement, and the addition of related images and bookmarks. 
 **1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 

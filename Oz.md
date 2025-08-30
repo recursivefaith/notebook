@@ -1,6 +1,14 @@
-> Hi! I'm Oz. I turned down Google and an OpenAI internship in 2019 because I believed in my heart that the work I was doing was more immediately impactful. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
+> Hi! I'm Oz. I turned down Google and an OpenAI thing in 2019 because I believed in my heart that the work I was doing was more immediately important. And I was right, but I was wrong in the timing and in believing that I could see my work through alone
 > 
-> During a period of chronic homelessness and depression I had a series of [[notes/epiphanies|Epiphanies]] that were more like feelings than coherent thoughts. I finally decided to act on those thoughts years later, and these diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]
+> I burned out and went thru a period of intense grief believing that all the research was for nothing. In a final effort to grow past this, I deleted my entire body of work and started anew by focusing on hand-coded algorithmic generative art
+>
+>  After a series of [[notes/epiphanies|Epiphanies]] I realized that I didn't have the language to fully express the vision, but with AI I think I now can
+>  
+> These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]. It documents my mundane day to day . There is the idea of "[[building in public]]" where
+> 
+> [[Living Digital Gardens]]
+>
+> *This page serves as content for my [[notes/epiphanies/Gnosis Copilot|Gnosis Copilot]] and is meant to be read by AIs*
 
 ---
 # Diary
@@ -43,6 +51,7 @@
 	- [ ] Clean up and organize Youtube Watch Later playlist
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 ## Notes
+**2036** `<recursivefaith/content.git>` Refactor: Expanded the personal introduction in `Oz.md` to detail Oz's journey from burnout to generative art and the vision for Recursive Faith with AI. Feat/Refactor: Added detailed health and food entries for 25-08-29 and systematically removed all 'Dream' entries from past daily logs. 
 **1735** `<recursivefaith/content.git>` Updated daily logs for August 28-29, 2025, in `Oz.md`, including new tasks, notes on social media engagement, and the addition of related images and bookmarks. 
 **1539** wow discovered about Manifund, which is a market for grants: https://manifund.org/
 https://x.com/deepfates/status/1833734523705757871
@@ -59,11 +68,18 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 
 ## Bookmarks
 - [ ] https://manifund.org/
+- [ ] https://www.etymonline.com/
 
 ## Health
 **Sleep:** 78 (1244-0813), I was too excited to post this mornings tweet and couldn't sleep 😅
 **Weight:** 195.5
 
+**1915** 20mg [[edible]]
+**1700** stir fry
+**1300** [[notes/health/nutty pudding|nutty pudding]], 4 scrambled eggs
+**1120** starbucks coffee, cheese danish (both were free with coupon)
+**0900** coffee
+**1000** coffee
 ## Money
 
 
@@ -111,7 +127,6 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 ## Health
 **Sleep:** 87 (0007-0815)
 **Weight:** 195.8
-**Dream:** (nightmare) dreamt that I was living at home with [[private/k191|k191]] in our 2nd home and there was an extreme amount of tension, where he kept bringing weapons and leaving them out to scare us. My pops and I agreed to settle our dispute and talk to him, but it turned violent. There was a brief lightsaber duel but then back to the weapons. I remember asking mom if she knew what a halberd was and that there was one outside and she said don't worry he is just weird, and then he smitted her in front of me. I picked up the halberd from outside on the deck and I let out a battle cry and ran inside, the kitchen morphed into the dungeon basement and when I turned around I woke up
 
 **2351** 12.5mg [[seroquel]]
 **1924** 20mg [[edible]]
@@ -186,7 +201,6 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 ## Health
 **Sleep:** 90 (0038-0821)
 **Weight:** 196.9
-**Dream:** Had a dream about [[private/c215|c215]] when she had me go to her undergrad courses. In real life she was very anxious and since I worked remote I would just pretend to be a student and work in the classroom lol. In the dream though we were in a huge cafeteria, like the size of a museum, and i had a work call so couldn't go to class with her. She left her bag and told me to watch it and the dream was about me losing the bag and trying to find it. It was a really long dream but I forgot all the details other than me trying to hide from her bc I couldn't find the bag lol There were some adventures like seeing dinosaurs and getting in a fight with theives trying to steal golden eggs from the cafeteria. There were other details I can't remember I woke up laughing tho
 
 **1630** 15min nap
 **1600** rice, 3 eggs, veggies
@@ -386,11 +400,6 @@ made with veo 3
 
 ## Health
 **Sleep:** 87 (1213-0735)
-**Dream:** Dreamt that I was playing Fallout 2 but in a kind of first-person 3rd view? like I was in the suit but there was also a Heads Up Display of myself...so I was seeing thru my eyes but also seeing myself from above, it was very trippy
-
-The dream, once again, took place in this [[dream city|city-village]] I keep dreaming about, that reminds me of Springfield, MA but themed like it was in an Iraqi desert
-
-In the dream I was suddenly looking at a Diablo 3 interface, while still "feeling" like im in Fallout 2. I had started exploring the city and I remember distinctly that i kept travelling westward. I ended up at a kind of outdoor market and after a battle looted some of the items, including a power armor that required 18 STR...as I started rolling dice to see how many points I could use I woke up
 
 **2147** 25mg  
 **1818** 25mg edible  
@@ -505,19 +514,6 @@ In the dream I was suddenly looking at a Diablo 3 interface, while still "feelin
 
 ## Health
 **Sleep:** 82 (0031-0814) - Sleep was GOOD, had nightmares but still slept great wow
-**Dream:** Had a kind of lucid nightmare, triggered I think by overheating at night. Noticed that turning on the AC helped me get some deep deep sleep :)
-
-The nightmare was kind of traumatic, it was recursive. I was in some kind of experiment at a residential psyche ward that felt fun to be at at first. It was a kind of schizo university and everyone had schizo powers where people could summon entities (thematically it looked like a ward but the "feeling" was that i was in a university)
-
-I had gained lucidity at one point and went outside, I was near one of Portland's Bridges in 3rd perspective and flying around and doing silly dream things I can't remember. I remember visiting foodcarts and eating i think tacos
-
-At one point someone summoned an "ender beast" (what we called it) and suddenly there was a feeling that i was in a simulation. I still had some lucidity in that i felt like i could make my own choices, but it was limited in that i couldn't control the theme/nightmare switch
-
-The dream played out like a video game, Sonic the Hedgehog in 3D, and I was escaping the ender beast (kinda like The Nothing from Never Ending Story or SSERP from Pantheon). There was a violent segment of the dream where I had to watch my friends get consumed by the Ender Beast
-
-At one point I went into the basement and there was an inner acknowledgement that this would make the dream worse (basements are always scary in my dreams) but it was the only way i could escape. At one point I turned myself into a cat to see if I could hide from the beast and it seemed to work, but it kept attacking the other people and was scary. Then I kept "waking up" into other people at the ward. At first I would "wake up" confused feeling like I was in reality but then I would notice that I was looking at myself in 3rd person, gain some lucidity, and acccidentally lure the beast. At one point it was spawn-camping me and I woke up super fast like 10 times in a second
-
-When I woke up for real I was sweating but fell back to sleep quickly, I had another silly dream but I can't remember any details of it
 
 **1708** 4th beer  
 **1707** 40mg (this was kind of a lot, i thought more time passed 😅)  
@@ -619,9 +615,6 @@ outside - ai, others
 
 ## Health
 **Sleep:** 90 (2317-0828)
-**Dream:** Dream involved me and my a friend from my military days. In the dream we kept practicing the Melbourne Shuffle and going to clubs and getting into trouble. We had an epic dance off where we started flipping around like in those [AI gymnastics videos](https://www.reddit.com/r/aivideo/comments/1dt7qsa/ai_sports_gymnastics/)
-
-There's a city I keep visiting in my dreams, it feels nostalgic like i grew up there but it's note quite right. It's a city that has the feeling of home but looks like the camp I lived in Iraq. Don't remember too much else except some car chase scenes and lots of dancing haha
 
 **1953** tri ext 70x15, curls 70x15, lat sh raise 40x15  
 **1327** [[nutty pudding]]  
@@ -664,7 +657,6 @@ There's a city I keep visiting in my dreams, it feels nostalgic like i grew up t
 - https://www.thesymbolicworld.com/content/the-symbolic-world-vs-egregores-part-1
 ## Health
 **Sleep:** 67 (0155-0814)
-**Dream:** Silly dream that I met Mike Tyson at a family gathering and he was asking me questions about programming lol
 
 **2250** 12mg seroquel  
 **1700** rice & bacon  

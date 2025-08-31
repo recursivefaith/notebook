@@ -150,6 +150,7 @@ export HISTORY="$HOME/github/recursivefaith.github.io/content/Oz.md"
 export CHANGELOG="$HOME/github/recursivefaith.github.io/content/changelog.md"
 export LINUX="$QRX/linux"
 export EPIPHANY="$OZ/context/epiphany/*"
+export PROMPT_GIT="$HOME/github/recursivefaith.github.io/content/egregores/Sifu Git.md"
 
 # Git related
 gs(){

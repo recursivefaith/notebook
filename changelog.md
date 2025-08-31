@@ -4,11 +4,14 @@ title: Changelog
 > These are automatically updated by the [[Gnosis Copilot]]
 
 # August 2025
-## 25-08-25 - Monday
+## 250830 - Saturday
+**2116** `<recursivefaith/content.git>` Refactored `QRx` documentation and updated daily logs to reflect a new focus on QR code integration. New entries detail a strategic vision for evolving the digital garden towards a pure `QRx`-driven knowledge base. 
 **1922** `<recursivefaith/content.git>` Feat: Added a new daily log entry for 25-08-30, detailing personal reflections, health updates, and a conceptual exploration of "prompt injection as reprogramming knowledge bots" for "Vibe Living." New images illustrating this concept were also included. 
 **1104** `<recursivefaith/content.git>` Refactor: Moved 'Egregore Cosmology' and 'Seeding Thresholds of Living Digital Gardens' into the `notes/` directory. Updated internal links in daily logs and changelog to reflect the new file paths. 
 **1030** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
 **1029** `<recursivefaith/content.git>` Feat: Added 25-08-30 daily log, renamed 'letsa go' to 'Seeding Thresholds of Living Digital Gardens' with expanded content, and introduced 'Egregore Cosmology'. 
+
+## 250829 - Friday
 **0153** `<recursivefaith/content.git>` Feat: Integrated a comprehensive note exploring "Virtual Egregores" and "Living Digital Gardens," supported by numerous new multimedia assets. Oz's daily log is updated with meta-interactions with the git agent, including a haiku generation. 
 **2058** `<recursivefaith/content.git>` 💬👑⚙️ 🗣️🔄🌸✨ 🚀🛤️ 
 **2055** `<recursivefaith/content.git>` Feat: Refactored `git.sh` to enable inline prompt addendums, allowing the git agent to incorporate Oz's feedback into commit messages. Acknowledging the prompt addendum. 🍎 
@@ -17,6 +20,8 @@ title: Changelog
 **1735** `<recursivefaith/content.git>` Updated daily logs for August 28-29, 2025, in `Oz.md`, including new tasks, notes on social media engagement, and the addition of related images and bookmarks. 
 **1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
+
+## 250829 - Thursday
 **0022** `<recursivefaith/content.git>` Feat: Developed a detailed "Egregore Biology" concept with multimedia metaphors for its various anatomical components. Updated daily logs with progress on homepage content, a new X posting strategy, and minor health record adjustments. 
 **2326** `<recursivefaith/recursivefaith.github.io.git>` Refactor: Renamed "Graph View" to "Virtual Egregore" across UI locales. Feat: Enhanced Matrix Rain effects to trigger on image hover and refined the number of rain drops generated when hovering over links. 
 **2326** `<recursivefaith/content.git>` Feat: Enhanced mobile responsiveness across the site and updated the homepage with a "work in progress" note. Refactor: Renamed a placeholder in the daily log to "Virtual Egregore." 
@@ -26,11 +31,15 @@ title: Changelog
 **1825** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by enabling uppercase characters, making rain drops shorter, slower, and preventing them from overlapping in the same column. Increased the background trickle rate, brightened trickle streams, and made characters fade out faster and more smoothly into the background. 
 **1257** `<recursivefaith/content.git>` Oz updated the daily log with a new Thursday entry and re-dated the previous one. Additionally, the Morpheus plugin now allows configuring the Gemini AI model, and website styling was refined. 
 **1257** `<recursivefaith/morpheus.git>` Feat: The Morpheus plugin now allows users to configure the Gemini model used for AI interactions via a new setting, defaulting to 'gemini-2.5-flash'. This update also streamlines chat message processing for the updated Gemini API. 
+
+## 250828 - Wednesday
 **2346** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined website styling by extending the `--bright` color to `<em>` (emphasis) tags, alongside `<i>` and `<code>` elements. 
 **2345** `<recursivefaith/content.git>` Added a personal introduction to `Oz.md`, significantly updated the `25-08-26` daily log with new tasks, detailed progress on the Morpheus agent (including a Gemini API client update and working inline chat), and various personal reflections. Also, updated chore completion and added a recent commit to the changelog. 
 **2316** `<recursivefaith/morpheus.git>` Updated the Google Gemini API client from `@google/generative-ai` to `@google/genai` v1.16.0, refactoring chat message preparation and streaming logic to match the new API and explicitly use the "gemini-2.0-flash" model. This change involved extensive updates to dependency management and API integration. 
 **1436** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new personal tasks, reflections, and a reference to generative art. The commit also marks a bookmark as complete and adds a new health entry, alongside a new image asset. 
 **1154** `<recursivefaith/content.git>` Updated daily logs with new 25-08-26 entry focusing on Morpheus agent development and related research, alongside changelog updates and a new daily template. 
+
+## 250827 - Tuesday 
 **0030** `<recursivefaith/recursivefaith.github.io.git>` Refined the Quartz graph view styling, updating node and link colors for better visual distinction and consistency. This commit also adjusted the graph's outer border, its icon's hover effect, and general SVG fill properties. 
 **0030** `<recursivefaith/content.git>` Completed daily tasks, including funding opportunities and graph view improvements. Expanded and restructured funding opportunities with new grants and updated database configurations, alongside a new daily log entry detailing database implementation challenges. 
 **2301** `<recursivefaith/content.git>` Expanded and restructured funding opportunities, adding several new AGI and Quantum computing grants, and completed the 'Start funding' task. Updated daily logs and changelog with recent site and content synchronizations. 
@@ -38,6 +47,8 @@ title: Changelog
 **2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
 **1033** `<recursivefaith/content.git>` Migrated AI chat logs, specifically a review of X profile and research framework, into a new note, including a deep dive into funding opportunities. A new image asset supports the chat content. 
 **1022** `<recursivefaith/content.git>` Added the daily log for 25-08-26, updating `Oz.md` to integrate new entries and reflect reverse chronological order. This commit also renames `sparse matrix Matrix.md` to `notes/metaphors/sparse matrix Matrix.md` and includes minor styling refinements. 
+
+## 250826 - Monday
 **2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 
 **2349** `<recursivefaith/content.git>` Expanded daily logs and tasks for 25-08-25, notably introducing the "sparse matrix Matrix" concept and its visualization. This commit integrates new media assets and detailed health entries, alongside minor task reordering. 
 **1440** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined the Matrix Rain effect by increasing the opacity of its inactive cells. 

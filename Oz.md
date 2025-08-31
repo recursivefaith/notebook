@@ -12,7 +12,7 @@
 # Diary
 
 ## 25-08-30 - Saturday
-> **Focus:** Get either Handsfree.js or frontend chat working
+> **Focus:** Add QR Codes to pages
 
 
 - [ ] Recursive.faith
@@ -32,8 +32,6 @@
 	- [ ] Research page
 		- [ ] Mood board
 			- [ ] Handsfree.js
-- [ ] Obsidian/Quartz
-	- [ ] Rename Graph view to [[Virtual Egregior]]
 - [ ] QRx
 	- [ ] Show QR Code for each page
 	- [ ] Animated QR Codes
@@ -48,6 +46,11 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**2116** `<recursivefaith/content.git>` Refactored `QRx` documentation and updated daily logs to reflect a new focus on QR code integration. New entries detail a strategic vision for evolving the digital garden towards a pure `QRx`-driven knowledge base. 
+**2059** gonna try and get vibe coding to work from INSIDE the Obsidian and the frontpage, in fact, really this Obsidian Vault is mostly to intersect with the Obsidian community, but ultimately the goal is to do all this completely frontside (literally from just a QR Code). Basically the idea is:
+- Use Obsidian + Quartz to seed my knowledge base
+- Manage markdown files with [[QRx]]
+- No markdown files just QRx
 **1922** `<recursivefaith/content.git>` Feat: Added a new daily log entry for 25-08-30, detailing personal reflections, health updates, and a conceptual exploration of "prompt injection as reprogramming knowledge bots" for "Vibe Living." New images illustrating this concept were also included. 
 **1902** felt kinda of so took a 15min nap, i think it was the pizza. It was goooood but i have been eating very clean and it was very cheesy lol feel much better now ready to vibe!
 **1542** Went for a nice walk and got myself a pizza for the afternoon. Was going to have some beers but remembered how even 4 beers destablized me for almost a week 😬 instead i may just have an extra bite of an edible today haha 😅 i need to figure out a way to backup my x posts and bookmarks, there's so much context that's hard to get bc it's on x. Also need to start chatting with the model more

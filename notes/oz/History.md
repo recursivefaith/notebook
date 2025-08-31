@@ -10,7 +10,7 @@
 		- [x] [[egrebear/retired/Pollio the Chronicler|Pollio the Chronicler]]
 		- [ ] migrate in [[Egrebears]]
 	- [ ] Content
-		- [x] Move [[Oz]] into [[notes/oz/Diary|Diary]]
+		- [x] Move [[Oz]] into [[Devlog|Devlog]]
 		- [x] Move [[index]] into [[Oz]]
 		- [ ] explain [[Living Digital Gardens]]
 		- [ ] fill out preliminary research

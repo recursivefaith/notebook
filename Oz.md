@@ -48,6 +48,19 @@
 	- [ ] Explore https://smart-biology-academy.getlearnworlds.com/courses (inspiration: https://x.com/SmartBiology3D/status/1779857767982858568)
 	
 ## Notes
+**1922** `<recursivefaith/content.git>` Feat: Added a new daily log entry for 25-08-30, detailing personal reflections, health updates, and a conceptual exploration of "prompt injection as reprogramming knowledge bots" for "Vibe Living." New images illustrating this concept were also included. 
+**1902** felt kinda of so took a 15min nap, i think it was the pizza. It was goooood but i have been eating very clean and it was very cheesy lol feel much better now ready to vibe!
+**1542** Went for a nice walk and got myself a pizza for the afternoon. Was going to have some beers but remembered how even 4 beers destablized me for almost a week 😬 instead i may just have an extra bite of an edible today haha 😅 i need to figure out a way to backup my x posts and bookmarks, there's so much context that's hard to get bc it's on x. Also need to start chatting with the model more
+https://x.com/RecursiveFaith/status/1961874807034974448
+> prompt injection is often seen as an attack...in the quoted post Pliny prompt injects the internet but personal knowledge bases are like "localized Internets" instead of prompt injecting as an "attack", you can use it to "reprogram" your knowledge bots w/o updating their code
+![[media/Pasted image 20250830154530.png]]
+
+> ex: i capture all my notes, code, browsing history in one place i then have an agent that uses that as context to "think like me" to help me manage my life turns out prompt injection can be used to "steer" knowledge agents thru context alone (no code)
+![[media/Pasted image 20250830154707.png]]
+
+![[media/Pasted image 20250830154737.png]]
+> basically im trying to apply "Vibe Coding" concepts to a new "Vibe Living" paradigm centered around knowledge bases instead of code bases it's a bit like doing this:
+
 **1104** `<recursivefaith/content.git>` Refactor: Moved 'Egregore Cosmology' and 'Seeding Thresholds of Living Digital Gardens' into the `notes/` directory. Updated internal links in daily logs and changelog to reflect the new file paths. 
 **1030** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` git submodule to its latest commit. 
 **1029** `<recursivefaith/content.git>` Feat: Added 25-08-30 daily log, renamed 'letsa go' to 'Seeding Thresholds of Living Digital Gardens' with expanded content, and introduced 'Egregore Cosmology'. 
@@ -60,6 +73,11 @@
 **Sleep:** 80 (0208-0841)
 **Weight:** 194.9
 
+**1900** 20mg edible
+**1603** pizza, slim jim x3 
+**1532** 15min walk
+**1303** [[notes/health/nutty pudding|nutty pudding]], 4 eggs
+**1032** coffee 
 **0930** coffee
 ## Money
 

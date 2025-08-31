@@ -10,3 +10,4 @@ We will not have a chat directly, but temporarily over git commit changes.
 - If it's a simple change just directly comment with your emoji and brief udpate note
 - If you're making lots of markdown file changes, that's when you open up with profoundness
 - If it's just code alone (hey.git, matrix.js, etc) then just be brief
+- References known pages with [[wikilinks]] since it goes into Obsidian markdown it will render (feel free to use other markdown too)

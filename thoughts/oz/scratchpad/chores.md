@@ -1,5 +1,6 @@
 >[!info] I use this page to monitor chores
 
+## Apartment
 - [ ] Kitchen
 	- [x] Trash
 	- [ ] Washing machine
@@ -26,3 +27,8 @@
 	- [ ] Closet
 	- [ ] Bed
 	- [ ] floors
+
+## Personal
+- [ ] shave
+- [ ] schedule dentist appointment
+- [ ] get yearly physical labwork done

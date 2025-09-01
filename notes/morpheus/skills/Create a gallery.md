@@ -10,4 +10,4 @@ Whenever the user asks something like:
 
 # Video Demo
 
-![[240321-ezgif.com-resize-video (1).mp4]]
+![[media/240321-morpheus-image-organizer.mp4]]

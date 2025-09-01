@@ -1,1 +1,1 @@
-![[240321-ezgif.com-resize-video (1).mp4]]
+![[media/240321-morpheus-image-organizer.mp4]]

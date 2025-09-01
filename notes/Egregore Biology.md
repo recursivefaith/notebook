@@ -11,7 +11,7 @@ imagine spikes of ideas in the memesphere (?) or knowledge graphs as spikes in t
 imagine the "shape" of the graph as the skin of the Egregore
 the skin can be implemented using soft body physics
 
-![[media/Pasted image 20250829001829.png]]![[media/1_2vDM-rziE0sT_rZ5eNVEzw (1).gif]]
+![[media/Pasted image 20250829001829.png]]![[media/softbodyphysics.gif]]
 ![[media/tumblr_a29877cce3a69e432adf3a1652126038_ecbaff56_500 (1).webp]]
 ## The Bones
 

@@ -1,9 +1,9 @@
 ## Why it will work
 
 > **Extending reality is possible:**
->- it's possible to [[notes/Augmented Reality|augment reality]]
-> - it's possible to create your own [[notes/Mesh Networking|mesh network]]
->- it's possible to trade [[notes/Crypto|crypto]] through mesh networks
+>- it's possible to [[thoughts/Augmented Reality|augment reality]]
+> - it's possible to create your own [[thoughts/Mesh Networking|mesh network]]
+>- it's possible to trade [[thoughts/Crypto|crypto]] through mesh networks
 >- it's possible to vibe code any interface you need for any data
 >- it's possible to use mesh networked crypto to run a Network State
 >- this can happen agentically
@@ -14,9 +14,9 @@
 ## How it will work
 
 >  **You can bootstrap realities with QR Codes:**
-> - it's possible to create [[tutorials/Generative QR Codes|Generative QR Codes]]
->- it's possible to create generative [[notes/Mesh Networking|mesh networked]] qr codes
->- it's possible for qr codes to generate [[notes/WebXR]] experiences
+> - it's possible to create [[thoughts/tutorials/Generative QR Codes|Generative QR Codes]]
+>- it's possible to create generative [[thoughts/Mesh Networking|mesh networked]] qr codes
+>- it's possible for qr codes to generate [[thoughts/WebXR]] experiences
 >- it's possible to make qr codes by hand
 >- it's possible to make qr codes from literally dirt
 
@@ -27,7 +27,7 @@
 ---
 ## Preliminary Research
 
-2024-2025 [[Living Digital Gardens]] ([[notes/epiphanies/Gnosis Copilot|Gnosis Copilot]])
+2024-2025 [[thoughts/gardening/Living Digital Gardens]] ([[thoughts/epiphanies/Gnosis Copilot|Gnosis Copilot]])
 2022-2025 [[Recursive Interfaces]] (Win9x)
 2021-2023 [[Visual interfaces]] (ModelPrompter)
 2018-2021 [[Handsfree Interfaces]] (Handsfree.js)
@@ -36,8 +36,8 @@
 
 ---
 ## Funding Goals
-- $500 to bootstrap "[[Living Digital Gardens]]"
-	- Thermal printer for [[tutorials/Generative QR Codes|Generative QR Codes]]
+- $500 to bootstrap "[[thoughts/gardening/Living Digital Gardens]]"
+	- Thermal printer for [[thoughts/tutorials/Generative QR Codes|Generative QR Codes]]
 	- API costs
 - $5k to cover my [[extended reality]] research goals
 	- 3D Printers and supplies

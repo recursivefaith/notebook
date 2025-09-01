@@ -1,15 +1,15 @@
 # Table of Contents
 
 - [[Plugin Setup]]
-	- [[System prompt]]
-	- [[Skill Detection Prompt]]
-	- [[Planning prompt]]
+	- [[thoughts/morpheus/prompts/System prompt]]
+	- [[thoughts/morpheus/prompts/Skill Detection Prompt]]
+	- [[thoughts/morpheus/prompts/Planning prompt]]
 - [[Chatting with Morpheus]]
 	- [[Use Cases]]
 
 # Discovered Skills
 
-- [[Create Markdown Calendar]]
+- [[thoughts/morpheus/usecases/Create Markdown Calendar]]
  
 # Architecture and Roadmap
 
@@ -32,7 +32,7 @@ graph LR
 Prompt --> Skills --> Plan --> Execute
 Execute -.-> Prompt
 ```
-When you submit a Prompt it's checked against every Skill individually. A Skill is made up of two sub-prompts, a Trigger Prompt and a Response Prompt. Morpheus creates a 3 message stack and asks the LLM to return `1` if the skill matches the user's prompt based on the [[Skill Detection Prompt]], or `0` otherwise:
+When you submit a Prompt it's checked against every Skill individually. A Skill is made up of two sub-prompts, a Trigger Prompt and a Response Prompt. Morpheus creates a 3 message stack and asks the LLM to return `1` if the skill matches the user's prompt based on the [[thoughts/morpheus/prompts/Skill Detection Prompt]], or `0` otherwise:
 
 ```json
 [

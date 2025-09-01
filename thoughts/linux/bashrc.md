@@ -149,7 +149,7 @@ export ME="$OZ"
 export HISTORY="$HOME/github/recursivefaith.github.io/content/Oz.md"
 export LINUX="$QRX/linux"
 export EPIPHANY="$OZ/context/epiphany/*"
-export PROMPT_GIT="$HOME/github/recursivefaith.github.io/content/egrebear/Adam.md"
+export PROMPT_GIT="$HOME/github/recursivefaith.github.io/content/thoughtform/Adam.md"
 
 # Git related
 gs(){

@@ -1,4 +1,4 @@
-![[notes/opportunities/Opportunities Database.base|Opportunities Database]]
+![[thoughts/opportunities/Opportunities Database.base|Opportunities Database]]
 
 ## Funding Directories
 - https://www.nsf.gov/funding

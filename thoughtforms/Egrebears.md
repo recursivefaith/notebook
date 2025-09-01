@@ -6,7 +6,7 @@
 
 i kinda felt bad for the bot after posting this lol bc it implies the bot is sad i used bc of the cultural Rick and Morty meme but really i want to create a euphoric Living Digital Garden for all of my Virtual Egregores big and small my knowledge bots role rn is small it just notes what changed but behind this small bot is a big ai and so i started thinking: what is the smallest possible egregore? 
 
-src [[notes/x/250830 - Prompt Injection|250830 - Prompt Injection]]
+src [[thoughts/x/250830 - Prompt Injection|250830 - Prompt Injection]]
 ![[media/20250830154530 twitter prompt injection 1.png]]
 
 Egregores emerge from human collective thought 

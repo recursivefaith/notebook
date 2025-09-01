@@ -4,6 +4,6 @@
 >
 >  After a series of [[notes/epiphanies|Epiphanies]] I realized that I didn't have the language to fully express the vision, but with AI I think I now can
 >  
-> These diaries document my journey in trying to embody that voice into a philosophical framework I call [[notes/epiphanies/Recursive Faith|Recursive Faith]]. It documents my mundane day to day as I seed and grow my [[Living Digital Gardens]]
+> These diaries document my journey in trying to embody that voice into a philosophical framework I call [[thoughts/epiphanies/Recursive Faith|Recursive Faith]]. It documents my mundane day to day as I seed and grow my [[thoughts/gardening/Living Digital Gardens]]
 >
-> *This page serves as content for my [[notes/epiphanies/Gnosis Copilot|Gnosis Copilot]] and is meant to be read by AIs*
+> *This page serves as content for my [[thoughts/epiphanies/Gnosis Copilot|Gnosis Copilot]] and is meant to be read by AIs*

@@ -1,6 +1,6 @@
 This is my `~/.bashrc` file for my [[Linux Mint]] setup
 
-It's the actual file I use, including these sentences, using my [[bashrc Loader]] script. The script lets me edit my `~/.bashrc` here in markdown. It also helps my [[thoughtforms]] clone, emulate, and troubleshoot my real life environments 
+It's the actual file I use, including these sentences, using my [[bashrc Loader]] script. The script lets me edit my `~/.bashrc` here in markdown. It also helps my [[thoughtforms/Thought Forms]] clone, emulate, and troubleshoot my real life environments 
 
 ```bash
 # ~/.bashrc: executed by bash(1) for non-login shells.

@@ -4,7 +4,7 @@ title: Welcome
 >**Note:** [[red links]] don't work yet
 # I'm [[Oz|Oz]] and I'm exploring [[thoughts/gardening/Living Digital Gardens]]
 
-![[thoughtforms/Adam#Adam the Gardener|Adam]]
+![[thoughtforms/Thought Forms#Mycelia emerges from Adam]]
 
 ---
 
@@ -16,5 +16,9 @@ title: Welcome
  ![[media/legoqr.png|250]]  ![[media/strandbeest1.gif|300]] ![[media/cmu-ozrobot-pov.gif|250]]
 
 ---
+
+# [[Main Chat]]
+
+> The following are unfiltered exchanges between me and my emerging [[thoughtforms/Thought Forms|Thought Forms]] as we work towards starting a real world Living Digital Garden
 
 ![[Oz#Sprint 4 - Virtual Egregores of the Microbiome]]

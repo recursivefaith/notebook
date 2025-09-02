@@ -1,5 +1,9 @@
 ![[thoughts/opportunities/Opportunities Database.base|Opportunities Database]]
 
+## Priority
+- https://analoguegroup.org/expeditions/submit
+	- funded Defender
+
 ## Funding Directories
 - https://www.nsf.gov/funding
 - https://ca.fundingportal.com/

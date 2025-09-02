@@ -6,7 +6,7 @@ updated: 2025-03-28
 > These are loose notes based on my other [[thoughts/epiphanies/Epiphanies]]
 
 # Transmigration (as North Star)
-![[media/Pasted image 20250823114953.png]]
+![[media/qr code people art 20250823114953.png]]
 image source: https://x.com/taimei_886/status/1959003200650191149
 
 **Subject:** Defining the Ultimate Philosophical Aim & Motivator

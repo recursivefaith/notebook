@@ -4,14 +4,14 @@
 
 imagine spikes of ideas in the memesphere (?) or knowledge graphs as spikes in the brain
 
-![[media/memeticspikesbrain-ezgif.com-video-to-gif-converter (1).gif]]
+![[media/memetics brain activation twitter memesphere.gif]]
 
 ## The Skin
 
 imagine the "shape" of the graph as the skin of the Egregore
 the skin can be implemented using soft body physics
 
-![[media/Pasted image 20250829001829.png]]![[media/softbodyphysics.gif]]
+![[media/screenshot graph complex networks 20250829001829.png]]![[media/softbodyphysics.gif]]
 ![[media/tumblr_a29877cce3a69e432adf3a1652126038_ecbaff56_500 (1).webp]]
 ## The Bones
 
@@ -21,7 +21,7 @@ links between nodes are like bones
 ## The Gut Biome
 imagine subgraphs as the "gut biome" of the egregore, which together give rise to behaviors in the egregore
 https://x.com/RecursiveFaith/status/1953164400942301478
-![[media/Pasted image 20250829002136.png]]
+![[media/screenshot x oz memetic petri dish obsidian 20250829002136.png]]
 
 ## Fossils
 
@@ -29,4 +29,4 @@ once you have a biology framework for egregores, you can begin to imagine "fossi
 and begin to apply the idea of "egregores" to other species besides humans
 like in these fossilized anthills
 which represent the "mind" of the ant hive mind 
-![[media/Pasted image 20250829002153.png]]
+![[media/screenshot fossilized hive mind brain 20250829002153.png]]

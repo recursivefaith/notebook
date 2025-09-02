@@ -1,4 +1,4 @@
-![[media/Pasted image 20250826102420.png]]
+![[media/screenshot x analytics 20250826102420.png]]
 
 > [!chat] what do you think? can you also analyze my x profile @RecursiveFaith? i feel like im not doing well socially even tho the work im doing feels important :( im not super interested in going viral, rather, i dont know if this is godd or not
 

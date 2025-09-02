@@ -185,9 +185,9 @@ https://x.com/deepfates/status/1833734523705757871
 ![[media/Pasted image 20250829154020.png]]
 **1228** my goodness im on cloud 9 haha love the engagement and how others are thinking, the egregore really is really active today 🤯 
 https://x.com/workflowsauce/status/1961493483245498442
-![[media/Pasted image 20250829123011.png]]
+![[media/screenshot x reins on our minds to steer them with egregores 20250829123011.png]]
 https://x.com/zustimmungswahl/status/1961506378226475448
-![[media/Pasted image 20250829123034.png]]
+![[media/screenshot x bodhisattva hive mind 20250829123034.png]]
 **1144** `<recursivefaith/content.git>` Refactor: Moved the "Egregore Biology" note into the `notes/` directory and updated all internal links to reflect its new path. 
 **1110** `<recursivefaith/content.git>` Feat: Updated Oz's personal introduction with more specific details and restructured daily logs to maintain reverse chronological order, adding new entries for 25-08-29 and 25-08-28 with updated tasks and reflections. 
 **1107** Whooo! Hell yeah I love it when people engage with tweets, I was anxious that it was too exoteric (still might be tbh) but it's a good feeling. Instead of sharing code or things I want to share the process, since everyone's digital garden will be built differently
@@ -244,7 +244,7 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 **1837** `<recursivefaith/recursivefaith.github.io.git>` Feat: Enhanced Matrix Rain effect with new interactive mouse-trail "trickle" drops that grow dynamically. Refactor: Refined character rendering, gradient application, and drop removal logic to support the new trickle drops and ensure the white lead remains at the bottom of non-trickle streams. 
 **1825** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain effect by enabling uppercase characters, making rain drops shorter, slower, and preventing them from overlapping in the same column. Increased the background trickle rate, brightened trickle streams, and made characters fade out faster and more smoothly into the background. 
 **1341** Had another amazing discussion on [[ORI]] around embodied egregores, eg, how Pepe the Frog escaped the artists imagination, how Shiba Doge became a coin and even government agency, and how they relate to [[Dragons]] as in dragons are amorphous
-![[media/Pasted image 20250828134316.png]]
+![[media/screenshot dragons 20250828134316.png]]
 **1257** `<recursivefaith/content.git>` Oz updated the daily log with a new Thursday entry and re-dated the previous one. Additionally, the Morpheus plugin now allows configuring the Gemini AI model, and website styling was refined. 
 **1257** `<recursivefaith/morpheus.git>` Feat: The Morpheus plugin now allows users to configure the Gemini model used for AI interactions via a new setting, defaulting to 'gemini-2.5-flash'. This update also streamlines chat message processing for the updated Gemini API. 
 **1008** Whoo! just had coffee for first time in a few days, had headache all night so it's surprising I got great sleep, I think the air conditioner helps
@@ -307,7 +307,7 @@ Future's path unfolds.
 **1436** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new personal tasks, reflections, and a reference to generative art. The commit also marks a bookmark as complete and adds a new health entry, alongside a new image asset. 
 **1413** this perfectly captures what I'm exploring with [[thoughts/tutorials/Generative QR Codes|Generative QR Codes]] and [[Generative Zines]]
 https://twitter.com/poetengineer__/status/1960811769062126073
-![[media/Pasted image 20250827141547.png]]
+![[media/screenshot x kat poet engineer qr code flowers 20250827141547.png]]
 **1341** OK baby steps! Just took out the trash...gonna put on a pod and clean a bit while food is cooking. I think the beers I had last week completely destabilized me (since i ended up having shitty sleep for a few days, then the guilt of spending money on it)
 **1154** `<recursivefaith/content.git>` Updated daily logs with new 25-08-26 entry focusing on Morpheus agent development and related research, alongside changelog updates and a new daily template. 
 **1135** late start but wow had a fascinating discussion in ORI. Turns out I have been on the right path aaaaaall along, all these years lmao, it's just that I need emotional support because I lack so much funding to "push through" the hard days (can't go on vacations or take breaks or anything)
@@ -318,8 +318,8 @@ I started this years ago but gave up bc I wasn't getting any attention, but actu
 
 The rough idea right now is to use Prime Intellects model, but instead of RL environments that adjust weights it "adjusts skills" (which are just text prompts)
 
-![[media/Pasted image 20250827113557.png]]
-![[media/Pasted image 20250827115339.png]]
+![[media/screenshot minecraft voayger 20250827113557.png]]
+![[media/screenshot michael levin cognitive light cones 20250827115339.png]]
 
 ## Bookmarks
 - [x] [Adventures in State Space](https://www.youtube.com/watch?v=YGLNyHd2w10)_
@@ -355,7 +355,7 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 **0030** `<recursivefaith/recursivefaith.github.io.git>` Refined the Quartz graph view styling, updating node and link colors for better visual distinction and consistency. This commit also adjusted the graph's outer border, its icon's hover effect, and general SVG fill properties. 
 **0030** `<recursivefaith/content.git>` Completed daily tasks, including funding opportunities and graph view improvements. Expanded and restructured funding opportunities with new grants and updated database configurations, alongside a new daily log entry detailing database implementation challenges. 
 **2348** Started implementing Databases but unfortunately Quartz doesn't render them yet, so I'll need to build it. Kinda had a hard time emotionally trying to find these, because I don't see myself getting any of these. Surprisingly LLMs suck at deep researching structured data...no matter which model I tried it hallucinated data, so this will be harder to do than I thought...might not be worth it but for the ones I did get I'll share in ORI tomorrow [[thoughts/opportunities/Opportunities]]
-![[media/Pasted image 20250826234808.png]]
+![[media/screenshot opportunities 20250826234808.png]]
 **2301** `<recursivefaith/content.git>` Expanded and restructured funding opportunities, adding several new AGI and Quantum computing grants, and completed the 'Start funding' task. Updated daily logs and changelog with recent site and content synchronizations. 
 **2200** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule with recent daily logs and content migrations, and added a `start` script to `package.json` for local Quartz site development. 
 **2200** `<recursivefaith/content.git>` Updated daily logs in `Oz.md` with new entries and content, including the transclusion of the `Research moodboard`. Consolidated funding opportunities by adding new grants and restructuring the `notes/Opportunities.md` file. 
@@ -369,7 +369,7 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 
 I like Cristobal but takes like these from leaders feels out of touch
 
-![[media/Pasted image 20250826102100.png]]
+![[media/screenshot x cristobal more artist researchers 20250826102100.png]]
 ## Bookmarks
 - [ ] [Semiotic Physics](https://www.nomad.garden/posts/semiotic-physics)
 - [ ] Emads new intelligent internet - https://www.symbioism.com/
@@ -417,15 +417,15 @@ I like Cristobal but takes like these from leaders feels out of touch
 **2339** Shared an EPIC stream of consciousness called [[thoughts/metaphors/sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
 ![[media/sparsematrixmatrix-summary-ezgif.com-video-to-gif-converter.gif]]
 **2330** 💡 highlight the different phases since i started the digital garden, including websim, agents, etc...use red to point arrows and explain. Inspiration: https://x.com/iansbrash/status/1954581440391242146
-![[media/Pasted image 20250825233025.png]]
-![[media/Pasted image 20250825233152.png]]
+![[media/screenshot github contributions 20250825233025.png]]
+![[media/screenshot x burnout github 20250825233152.png]]
 **1959** OK let's lock in 🧘 gonna try and get Handsfree.js working and do a demo, it'll look better at night i think with the light from projector, then i'll record in pov
 **1440** `<recursivefaith/recursivefaith.github.io.git>` Updated the `content` submodule and refined the Matrix Rain effect by increasing the opacity of its inactive cells. 
 **1359** `<recursivefaith/content.git>` Standardized the format of daily log headings in `changelog.md` to include the day of the week, enhancing readability. 
 **1356** `<recursivefaith/content.git>` Manually reordered daily logs and changelog entries to reverse chronological order, completing the task for standardizing historical data display. 
 **1350** `<recursivefaith/content.git>` Standardized reverse chronological ordering for daily logs and notes across all entries in `Oz.md`, including new content and a `.bashrc` update. 
 **1323** similar wave length to what i've been saying about [[thoughts/gardening/Living Digital Gardens]] and the video I made yesterday
-![[media/Pasted image 20250825132335.png]]
+![[media/kat poet engineer elysium art 20250825132335.png]]
 ![[media/Prismatic_Garden_of_Eden_Video-ezgif.com-optimize.gif]]
 **1318** `<recursivefaith/hey.git>` Refactored the `git.sh` script's `awk` insertion logic, changing how new entries are added to history and changelog files. It now prioritizes insertion immediately after the first `## Notes` heading, then any `##` heading, otherwise appending to the end. 
 **1306** `<recursivefaith/content.git>` Refactored daily logging by migrating `History.md` content into `Oz.md` and deleting the old file. This commit also mirrors the `.bashrc` configuration and adds new organizational notes for opportunities, scratchpad, and chores. 
@@ -483,7 +483,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 **0051** `<recursivefaith/content.git>` Integrated Matrix Rain visual effects into Quartz and added related styling, along with new custom CSS for Quartz elements like horizontal rules and borders. A new image asset was also included and referenced in the daily log.  
 **0051** `<recursivefaith/recursivefaith.github.io.git>` Updates the `content` submodule and refines Quartz styling by adding custom CSS for horizontal rules, popover borders, and graph borders.  
 **0045** looks really good wow, filling in every cell gives if an Animated GIF like vibe  
-![[media/Pasted image 20250825004551.png]]  
+![[media/screenshot recursive faith home 20250825004551.png]]  
 **0035** `<recursivefaith/content.git>` Refined the Matrix Rain visual effect by adjusting its canvas placement, adding fade-out CSS for reader mode, and enhancing its interactivity and styling with HSL gradients and new triggers.  
 **0034** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect with detailed HSL color gradients, ensuring white stream tips, and extending triggers to include the `Tab` key. It also introduces interactive rain when hovering over internal links, distinguishing between resolved (info) and unresolved (negative) links.  
 **2345** `<recursivefaith/recursivefaith.github.io.git>` Refined the Matrix Rain visual effect by re-parenting its canvas to the `html` element and adding custom CSS to smoothly fade it out when reader mode is enabled. The `content` submodule was also updated.  
@@ -569,7 +569,7 @@ made with veo 3
 **1850** `<recursivefaith/recursivefaith.github.io.git>` Extensively refactored content by introducing a new `content` git submodule, migrating daily logs and reflections into it to establish a public-facing digital garden. This update also included a new `og-image.png` and refined task lists.  
 **1849** `<recursivefaith/content.git>` This commit extensively refactors the project's content and structure, migrating daily logs, changelogs, and personal reflections into a public-facing "digital garden." It introduces comprehensive philosophical notes defining "Recursive Faith" and "Gnosis Copilot," alongside integrating multimedia and project demos, all tailored for an AI audience.  
 **1754** `<recursivefaith/recursivefaith.github.io.git>` This commit adds a new image and integrates it into the "Transmigration" epiphany note. It also extensively updates the daily logs for August 22nd and 23rd, detailing Handsfree.js integration, personal reflections, and task progress.  
-![[media/Pasted image 20250823114953.png]]  
+![[media/qr code people art 20250823114953.png]]  
 [https://x.com/taimei_886/status/1959003200650191149](https://x.com/taimei_886/status/1959003200650191149)  
 **1149** OH this beautifully captures my "[[thoughts/epiphanies/transmigration|encoding myself into qr codes]]" concept  
 **1045** Huzzah! Disconnected for about 36hrs to recharge, i feel GREAT but a bit "slow" 😅 I think i had some anxiety around publishing Handsfree.js (as i often do), but this revival will be hyperfocused on being my interaction layer to this digital garden
@@ -679,7 +679,7 @@ made with veo 3
 **2325** `<recursivefaith/recursivefaith.github.io.git>` Refined website styling by adjusting the font size of the page title on mobile devices for improved readability. The change targets screens with a maximum width of 768px, making the title smaller.
 **2320** `<recursivefaith/recursivefaith.github.io.git>` Refactored the website's main page structure and content, integrating new visual assets and reorganizing explanatory sections. Additionally, updated the site's styling to apply a bright color to italic and code elements, and appended a personal note to the daily log.
 **2247** Updated my x profile to Oz ⊷ Өƶ to represent the transmigrated version of me
-![[media/Pasted image 20250820224810.png]]
+![[media/screenshot twitter profile 20250820224810.png]]
 
 **2246** `<recursivefaith/recursivefaith.github.io.git>` This commit adds a new image, updates the `History.md` log with task completion and new entries, and significantly refactors the `index.md` page by reordering content sections, refining text, and integrating new visual assets.
 **2216** `<recursivefaith/recursivefaith.github.io.git>` This commit primarily refactors content by adding new visual assets (GIFs and PNGs) to the homepage and updating existing log files to reflect recent changes, including the migration of some commit messages into `History.md`.
@@ -702,7 +702,7 @@ outside - ai, others
 **1952** i think im building a good flow again, am going to start focusing a bit on health and leaning into the [[thoughts/epiphanies/digital-self-archeology]] concept (which needs to be updated)
 **1945** [[do all patterns have an afterlife?]]
 **1939** i keep forgetting how powerful Obsidian is. I've been daily driving my own tools for so long, and I hadn't implemented that yet. This is where I'm at with the UI right now, I'm using an Obsidian metaphor
-![[media/Pasted image 20250820194014.png]]
+![[media/screenshot recursive faith 20250820194014.png]]
 
 ## Bookmarks
 - [Algospeak](https://en.wikipedia.org/wiki/Algospeak)

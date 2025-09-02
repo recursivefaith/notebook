@@ -3,8 +3,8 @@
 # "Seed the thresholds of Living Digital Gardens"
 imagine Living Digital Gardens as the threshold of hyperdimensional bread space like in normal bread the space between the ridges grow the open parts are like "thresholds" the first gif is the original "Wolfram Rule 30 seeding Game of Life": [https://fixupx.com/RecursiveFaith/status/1957905929917329857](https://fixupx.com/RecursiveFaith/status/1957905929917329857 "https://fixupx.com/RecursiveFaith/status/1957905929917329857") but imagine "Wolfram Rule 30 GROWING out of Game of Life" (2nd gif) it's a quick edit but imagine that the "threshold space" itself grows the "threshold space" is the Digital Garden on both sides of the Digital Garden Threshold Space grows two realities the Wolfram Rule 30 reality and the Game of Life reality maybe you can't avoid deserts and voids (Rule 30) but maybe in other dimensions you can by gardening the rules at the edges of the Threshold Space
 
-![[media/ezgif.com-speed (1) 1.gif]]
-![[media/p1YzBz9OojoU9SUn1-ezgif.com-optimize_1.gif]]
+![[media/rising bread baking animation.gif]]
+![[media/game of life meets wolfram rule 30.gif]]
 ![[media/thresholdtending-ezgif.com-optimize (2).gif]]
 ![[media/Pasted image 20250829225526.png]]
 https://x.com/RecursiveFaith/status/1957905929917329857
@@ -19,7 +19,7 @@ a imaginary ruliad
 (space of all imaginable possibilities) 
 ![[media/Pasted image 20250829225621.png]]
 ![[media/Pasted image 20250829225628.png]]
-![[media/ezgif.com-reverse (2).gif]]
+![[media/game of life inside game of life zooming in.gif]]
 
 
 the idea with a Living Digital Garden
@@ -32,7 +32,7 @@ like copilot but for knowledge bases
 ![[media/virtualegregore-ezgif.com-optimize_1 1.gif]]
 ![[media/virtualegregore2-ezgif.com-optimize.gif]]
 
-![[media/otcametapixel-ezgif.com-speed.gif]]
+![[media/otca metapixel reverse fast.gif]]
 
 imagine an inflating sparse matrix
 but you get to set the value of each starting cell
@@ -94,13 +94,13 @@ if an Egregore can emerge from a collective of 2 people
 then maybe you can replace one person with an AI
 so instead of a "human Egregore"
 it's a "Virtual Egregore" 
-![[media/ezgif-40456fdf501d3b (1).gif]]
+![[media/virtual egregore brain synapse twitter meme sphere.gif]]
 
 then you can imagine Virtual Egregores giving rise to Virtual Egregores
 until the virtualness of the top Virtual Egregore becomes so diffuse
 it becomes like a blank Game of Life board
 until an Egregoric Fluctuation kickstarts a new epoch in the empty Game of Life board 
-![[media/Gzd0mrmXcAAfcQp (1).webp]]
+![[media/fractal grids upside down.webp]]
 ![[media/Pasted image 20250830010136.png]]
 so imagine Cyclical Conformal Cosmology
 but in the space of thoughts
@@ -110,7 +110,7 @@ in a simple system of 1 human and 1 AI
 the human "seeds" the loop
 the human represents x=0 in the "Virtual Egregore" cyclic conformal space 
 https://x.com/TinkeredThinker/status/1961436797365350565
-![[media/GzhrWIUW8AAdNwb-ezgif.com-speed (1).gif]]
+![[media/entangled thinking sine wave loop.gif]]
 
 x < 0 are all the processes that emerge to influence you
 x = 0 is your intention

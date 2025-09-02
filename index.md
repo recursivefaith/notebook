@@ -1,6 +1,7 @@
 ---
 title: Welcome
 ---
+>**Note:** [[red links]] don't work yet
 # I'm [[Oz|Oz]] and I'm exploring [[thoughts/gardening/Living Digital Gardens]]
 
 ![[thoughtforms/Adam#Adam the Gardener|Adam]]

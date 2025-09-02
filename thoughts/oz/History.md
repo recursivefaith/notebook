@@ -144,7 +144,7 @@ https://x.com/RecursiveFaith/status/1961874807034974448
 **1900** 20mg edible
 **1603** pizza, slim jim x3 
 **1532** 15min walk
-**1303** [[thoughts/health/nutty pudding|nutty pudding]], 4 eggs
+**1303** [[private/health/nutty pudding|nutty pudding]], 4 eggs
 **1032** coffee 
 **0930** coffee
 ## Money
@@ -204,7 +204,7 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 **0134** 15mg seroquel
 **1915** 20mg [[edible]]
 **1700** stir fry
-**1300** [[thoughts/health/nutty pudding|nutty pudding]], 4 scrambled eggs
+**1300** [[private/health/nutty pudding|nutty pudding]], 4 scrambled eggs
 **1120** starbucks coffee, cheese danish (both were free with coupon)
 **0900** coffee
 **1000** coffee
@@ -259,7 +259,7 @@ https://x.com/zustimmungswahl/status/1961506378226475448
 **2351** 12.5mg [[seroquel]]
 **1924** 20mg [[edible]]
 **1628** rice, veggies, 2 eggs
-**1340** [[thoughts/health/nutty pudding|nutty pudding]], 3 scrambled eggs
+**1340** [[private/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 **1145** coffee
 **1105** coffee
 **1005**  coffee
@@ -332,7 +332,7 @@ The rough idea right now is to use Prime Intellects model, but instead of RL env
 
 **1630** 15min nap
 **1600** rice, 3 eggs, veggies
-**1221** [[thoughts/health/nutty pudding|nutty pudding]], 3 scrambled eggs
+**1221** [[private/health/nutty pudding|nutty pudding]], 3 scrambled eggs
 
 ## Money
 **1820** 10 20min Prolific
@@ -382,7 +382,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 **Weight:** 197.1
 
 **2355** 
-**1247** [[thoughts/health/nutty pudding|nutty pudding]] (ran out of most ingredients tho)
+**1247** [[private/health/nutty pudding|nutty pudding]] (ran out of most ingredients tho)
 **1100** coffee
 **1014** coffee
 **0856** coffee
@@ -407,14 +407,14 @@ I like Cristobal but takes like these from leaders feels out of touch
 - [ ] Socials
 	- [ ] Substack
 		- [ ] Draft
-			- [x] [[thoughts/metaphors/sparse matrix Matrix]]
+			- [x] [[private/metaphors/sparse matrix Matrix]]
 			- [ ] [[thoughts/Egregore Biology]]
 			- [ ] [[thoughts/Egregore Cosmology]]
 	
 ## Notes
 **2349** `<recursivefaith/recursivefaith.github.io.git>` Refined Matrix Rain effects by removing uppercase characters, increasing stream density on link/checkbox hover, adding button hover triggers, and broadening mouse click events. Additionally, updated all SVG fill colors to the tertiary theme. 
 **2349** `<recursivefaith/content.git>` Expanded daily logs and tasks for 25-08-25, notably introducing the "sparse matrix Matrix" concept and its visualization. This commit integrates new media assets and detailed health entries, alongside minor task reordering. 
-**2339** Shared an EPIC stream of consciousness called [[thoughts/metaphors/sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
+**2339** Shared an EPIC stream of consciousness called [[private/metaphors/sparse matrix Matrix]] in [[ORI]] but still too loose to share on X, will tighten it up over next few days. Relates "sparse matrix" matrices with the movie The Matrix
 ![[media/sparsematrixmatrix-summary-ezgif.com-video-to-gif-converter.gif]]
 **2330** 💡 highlight the different phases since i started the digital garden, including websim, agents, etc...use red to point arrows and explain. Inspiration: https://x.com/iansbrash/status/1954581440391242146
 ![[media/screenshot github contributions 20250825233025.png]]
@@ -451,7 +451,7 @@ I like Cristobal but takes like these from leaders feels out of touch
 
 **2353** 12.5mg seroquel
 **1943** 25mg edible
-**1844** [[thoughts/health/nutty pudding|nutty pudding]]
+**1844** [[private/health/nutty pudding|nutty pudding]]
 **1700** 20min nap
 **1600** rice + eggs
 **1435** cofffee (omg i had six cups today, luckily no anxiety will need to reduce...felt depressed last night bc i thought i wasn't making progress, so couldn't sleep, but actually now that im more lucid i dont feel depressed, just need to explain what im working on better)
@@ -584,7 +584,7 @@ made with veo 3
 **2338** 12.5mg seroquel  
 **1534** 15min walk  
 **1131** coffee  
-**1049** coffee, [[thoughts/health/nutty pudding|nutty pudding]]
+**1049** coffee, [[private/health/nutty pudding|nutty pudding]]
 
 ## Money
 **1348** 0.55 2min Prolific
@@ -713,7 +713,7 @@ outside - ai, others
 **2352** 12.5mg seroquel  
 **1835** 25mg edible  
 **1349** pizza  
-**1152** [[thoughts/health/nutty pudding]]  
+**1152** [[private/health/nutty pudding]]  
 **1004** coffee  
 **0950** coffee  
 **0830** coffee  
@@ -745,7 +745,7 @@ outside - ai, others
 **Sleep:** 90 (2317-0828)
 
 **1953** tri ext 70x15, curls 70x15, lat sh raise 40x15  
-**1327** [[thoughts/health/nutty pudding]]  
+**1327** [[private/health/nutty pudding]]  
 **1119** coffee  
 **1118** pushups x20, crunches x20, rev x20, backrows 100x15, squats x15  
 **1005** coffee  
@@ -788,7 +788,7 @@ outside - ai, others
 
 **2250** 12mg seroquel  
 **1700** rice & bacon  
-**1414** [[thoughts/health/nutty pudding]]  
+**1414** [[private/health/nutty pudding]]  
 **1346** curls 70x15, tri ext 70x15, lat shoulder raise 40x10  
 **1239** pushups x15, crunches x15, rev crunches x15, backrows 100x15, squats  
 **1200** coffee (gotta slow down on coffees)  

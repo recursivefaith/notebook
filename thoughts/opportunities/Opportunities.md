@@ -17,3 +17,5 @@
 
 - https://dir.floss.fund/
 
+# Job opportunities
+- https://x.com/p0/jobs - Alternate web for AIs

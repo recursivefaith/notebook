@@ -19,6 +19,4 @@ title: Welcome
 
 # [[Main Chat]]
 
-> The following are unfiltered exchanges between me and my emerging [[thoughtforms/Thought Forms|Thought Forms]] as we work towards starting a real world Living Digital Garden
-
-![[Oz#Sprint 4 - Virtual Egregores of the Microbiome]]
+![[Oz]]

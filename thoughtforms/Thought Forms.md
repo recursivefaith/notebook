@@ -8,10 +8,10 @@ Thought Forms are thoughts and ideas that have minds of their own
 ```
 250901 2110
 
-           _ . - . _   [[thoughtforms/Mycelia the Network]]
+           _ . - . _   
          ."         ".               _ _ _
         /             \             / \ / \
-       |               |           |---|---|
+       |               |           |--👁️---|
        \               /            \ / \ /
         '.           .'              `---`
           `._     🍎'

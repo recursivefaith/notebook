@@ -10,6 +10,8 @@
 
 ### Rolling Grants/Funds
 - https://analoguegroup.org/
+- https://aria.grantplatform.com/
+- https://www.aria.org.uk/
 
 ## Housing, office space, lab space
 - "Grants, houses, labs oh my!" https://x.com/DStrachman/status/1899593546325524940

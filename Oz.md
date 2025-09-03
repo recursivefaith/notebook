@@ -6,7 +6,7 @@
 ![[media/egrebear-illustration.webp]]
 ![[media/bacteriadivision.gif|300]] ![[media/cell wall knowledge graph.png|300]]
 
-illustration by Pixie (https://x.com/piiixiiidust, https://x.com/pixiiidust)
+illustration by Pixie (https://x.com/piiixiiidust, https://pixiiidust.substack.com/)
 ![[media/pixiedust adam seed growth cycle Pasted image 20250902192405.png]]
 
 ## Sprint Goals

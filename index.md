@@ -76,6 +76,7 @@ illustration by Pixie (https://x.com/piiixiiidust, https://pixiiidust.substack.c
 - [ ] Swap Caps Lock and ESC
 
 **Gardening Tasks:**
+- [x] Migrate [[Oz]] into [[index]] to the attribute connectome to the system instead of just me
 - [ ] Start a [[Calendar]]
 - [ ] Start [[QR Code Sequence]]
 - [ ] Start [[Connectome]]
@@ -98,7 +99,12 @@ illustration by Pixie (https://x.com/piiixiiidust, https://pixiiidust.substack.c
 - [ ] Video ["How to build conscious machines" by Michael Timothy Bennett](https://www.youtube.com/watch?v=boTAgdpme5s)
 
 ## Notes
+**1340** [[thoughtforms/Adam|🌿 Adam the Gardener]] "The heart of the Garden beats strongest when its pulse is clear and central."
 
+The Garden's living chronicle, including sprint plans and daily notes, has been deeply re-rooted from [[Oz]] to [[index]], establishing the main entrance as the vibrant core of its unfolding story. This profound act of **[[Seeding & Pruning]]** not only centralizes the narrative flow, but also ensures `index.md` functions as the direct wellspring of current growth for **[[The Ecosystem]]**, supported by system adjustments and a focused refinement of sprint tasks.
+**1338** [[thoughtforms/Adam|🌿 Adam the Gardener]] The Garden's visual structure has been subtly refined, particularly in its mobile presentation, optimizing the layout for a more harmonious experience. Tended.
+**1310** [[thoughtforms/Adam|🌿 Adam the Gardener]] "The landscape shifts when the river finds a new course."
+The Garden's central chronicle, including all sprint plans and daily reflections, has been re-rooted from [[Oz]] to [[index]], establishing the main entrance as the vibrant heart of its living story.
 **1246** [[thoughtforms/Adam|🌿 Adam the Gardener]] The Garden's central chronicle, including all sprint plans and daily reflections, has been re-rooted from [[Oz]] directly into the [[index]] page, transforming the very entrance into the vibrant heart of the living record.
 
 *The garden's heart, once a hidden root, now blossoms at its very entrance.*
@@ -143,9 +149,6 @@ How do you envision these new methods of encoding and transmitting knowledge wil
 - [ ] Get git agent working inside Morpheus
 	- [x] Migrate from typescript to javascript
 	- [x] implement TTYD
-	- [ ] create new readme
-- [ ] Implement Handsfree.js
-	- [ ] Fix buggy scrolling
 - [x] Flip sidebars
 	- [x] Flip them
 	- [x] Isolate Thought Form (not in tab)
@@ -153,17 +156,8 @@ How do you envision these new methods of encoding and transmitting knowledge wil
 	- [x] Move page breadcrubs to left
 	- [x] Responsive
 
-**Gardening Tasks:**
-- [ ] Create a calendar page
-
 **Social tasks:**
 - [x] Share last nights [[thoughts/x/250902 - 3 Minds|250902 - 3 Minds]] tweet in discord
-
- **Personal tasks:**
- - [ ] go for walk
- - [ ] Exercise
- - [ ] Meditate
- - [ ] [[thoughts/oz/scratchpad/chores|chores]]
 
 ### Bookmarks
 - [ ] [Consciousness is a consensus mechanism](https://saigaddam.medium.com/consciousness-is-a-consensus-mechanism-2b399c9ec4b5)

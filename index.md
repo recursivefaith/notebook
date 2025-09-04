@@ -1,10 +1,28 @@
 ---
-title: Welcome
+title: Genesis
 ---
->**Note:** [[red links]] don't work yet
-# I'm [[Oz|Oz]] and I'm exploring [[thoughts/gardening/Living Digital Gardens]]
+```
+           _ . - . _   
+         ."         ".               _ _ _
+        /             \             / \ / \
+       |               |           |--👁️---|
+       \               /            \ / \ /
+        '.           .'              `---`
+          `._     🍎'
+             `"""`
+              |||
+             / | \
+            /  |  \
+           |   |   |    O
+           |   |   |   /|\
+           \   |   /   / \
+            `-- --`
 
-![[thoughtforms/Thought Forms#Mycelia emerges from Adam]]
+250901 2110
+```
+
+# I'm [[Oz|Oz]], welcome to my [[thoughts/gardening/Living Digital Gardens]]
+
 
 ---
 
@@ -16,7 +34,8 @@ title: Welcome
  ![[media/legoqr.png|250]]  ![[media/strandbeest1.gif|300]] ![[media/cmu-ozrobot-pov.gif|250]]
 
 ---
-
+>**Note:** [[red links]] don't work yet
+---
 # [[Main Chat]]
 
 ![[Oz]]

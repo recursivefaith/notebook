@@ -1,4 +1,14 @@
-> [!chat] output a canvas.ephemeral-bloom html element unsepsecaped, then add \`\`\`js.run (include the .run this is special) self contained anonymous function that finds the first .ephemeral-bloom element to run snake inside it. add buttons for turning. use 🍎 as the emoji to use, ananymous js function... the \`\`\`js.run will autorun it
+> Hello World
+
+
+> [!chat] test
+> 123
+
+
+> [!chat] test
+> 
+> 123
+
 # Snake Game
 <canvas class="ephemeral-bloom" width="400" height="400" style="border: 1px solid #ccc; background-color: #f0f0f0; display: block; margin-bottom: 10px;"></canvas>
 <div class="snake-controls" style="display: flex; gap: 5px; justify-content: center; margin-bottom: 20px;">

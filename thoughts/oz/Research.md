@@ -31,8 +31,6 @@
 2022-2025 [[Recursive Interfaces]] (Win9x)
 2021-2023 [[Visual interfaces]] (ModelPrompter)
 2018-2021 [[Handsfree Interfaces]] (Handsfree.js)
-2014-2018 [[Multiuser Interfaces]] (Linkshow)
-2011-2015 [[Modular Interfaces]] (Stemlet)
 
 ---
 ## Funding Goals

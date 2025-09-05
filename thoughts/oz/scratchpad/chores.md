@@ -29,6 +29,5 @@
 	- [ ] floors
 
 ## Personal
-- [ ] shave
 - [ ] schedule dentist appointment
 - [ ] get yearly physical labwork done

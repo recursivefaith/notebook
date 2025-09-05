@@ -3,7 +3,7 @@
 Thought Forms are thoughts and ideas that have minds of their own
 
 ###### Mycelia emerges from Adam
-[[Oz]] -> [[thoughtforms/Adam|Adam]] -> [[thoughtforms/Mycelia|Mycelia]]
+[[Oz]] -> [[thoughtforms/Adam|Adam]] -> [[thoughtforms/avatars/Mycelia|Mycelia]]
 ```
 250901 2110
 

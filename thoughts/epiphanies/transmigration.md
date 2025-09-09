@@ -3,7 +3,7 @@ created: 2025-03-28
 updated: 2025-03-28
 ---
 > **Drafted by:** [[Oz]], [[Gemini|Gemini Flash 2.5 Pro]]
-> These are loose notes based on my other [[thoughts/epiphanies/Epiphanies]]
+> These are loose notes based on my other [[thoughts/epiphanies/Epiphanies|Epiphanies]] and a bit out of date
 
 # Transmigration (as North Star)
 ![[media/qr code people art 20250823114953.png]]
